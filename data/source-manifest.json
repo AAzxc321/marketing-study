@@ -1,0 +1,1095 @@
+{
+  "creator": "Adam Erhart",
+  "processed_at": "2026-07-24",
+  "explicit_source_occurrences": 54,
+  "unique_explicit_video_ids": 46,
+  "malformed_url_correction": {
+    "intended_video_id": "NcgxgPCjFZc",
+    "status": "corrected in source manifest"
+  },
+  "modern_marketing_minute": {
+    "playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+    "expected_size": 22,
+    "retrieved_size": 22
+  },
+  "totals_after_expansion": {
+    "source_occurrences": 75,
+    "unique_videos": 67,
+    "duplicate_references": 8,
+    "completed": 62,
+    "manual_completed": 15,
+    "auto_completed": 47,
+    "unavailable": 5,
+    "metadata_failures": 0,
+    "transcript_failures": 0,
+    "quality_warnings": 0
+  },
+  "playlists": [
+    {
+      "priority": 1,
+      "playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+      "retrieved_title": "Digital Marketing Strategies",
+      "canonical_playlist_url": "https://www.youtube.com/playlist?list=PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+      "processing_mode": "Selected supplied videos",
+      "supplied_video_ids": [
+        "h95cQkEWBx0",
+        "MAMUTGwYOcY",
+        "NcgxgPCjFZc",
+        "LeIePgFDAQI",
+        "R1BOgBTzE1M",
+        "NvgJ2mPWHX8",
+        "Z_KspIX1oXU"
+      ],
+      "supplied_order": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "seed_video_id": null,
+      "expected_entire_playlist_size": null,
+      "retrieved_entry_count": 7,
+      "playlist_metadata_status": "success",
+      "playlist_metadata_error": "",
+      "repository_folder": "transcripts/adam-erhart/01-digital-marketing-strategies",
+      "entries": [
+        {
+          "position": 1,
+          "video_id": "h95cQkEWBx0",
+          "title": "Digital Marketing 101 (A Beginner’s Guide To Marketing)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=h95cQkEWBx0",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/01-digital-marketing-101-a-beginners-guide-to-marketing--h95cQkEWBx0.md"
+        },
+        {
+          "position": 2,
+          "video_id": "MAMUTGwYOcY",
+          "title": "Top 2026 Marketing Strategies That Will Help Your Business Get Attention",
+          "canonical_video_url": "https://www.youtube.com/watch?v=MAMUTGwYOcY",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/02-top-2026-marketing-strategies-that-will-help-your-business-get-attention--MAMUTGwYOcY.md"
+        },
+        {
+          "position": 3,
+          "video_id": "NcgxgPCjFZc",
+          "title": "Advertising 101 - How To Advertise For A Small Business",
+          "canonical_video_url": "https://www.youtube.com/watch?v=NcgxgPCjFZc",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/03-advertising-101-how-to-advertise-for-a-small-business--NcgxgPCjFZc.md"
+        },
+        {
+          "position": 4,
+          "video_id": "LeIePgFDAQI",
+          "title": "How To Identify Target Market | Target Market Examples",
+          "canonical_video_url": "https://www.youtube.com/watch?v=LeIePgFDAQI",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/04-how-to-identify-target-market-target-market-examples--LeIePgFDAQI.md"
+        },
+        {
+          "position": 5,
+          "video_id": "R1BOgBTzE1M",
+          "title": "Digital Marketing Strategies For Small Business (... My TOP 20 Tips & Tricks)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=R1BOgBTzE1M",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/05-digital-marketing-strategies-for-small-business-my-top-20-tips-and-tricks--R1BOgBTzE1M.md"
+        },
+        {
+          "position": 6,
+          "video_id": "NvgJ2mPWHX8",
+          "title": "What Is Digital Marketing? And How Does It Work?",
+          "canonical_video_url": "https://www.youtube.com/watch?v=NvgJ2mPWHX8",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/06-what-is-digital-marketing-and-how-does-it-work--NvgJ2mPWHX8.md"
+        },
+        {
+          "position": 7,
+          "video_id": "Z_KspIX1oXU",
+          "title": "What Is Digital Marketing? And How Does It Work?",
+          "canonical_video_url": "https://www.youtube.com/watch?v=Z_KspIX1oXU",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/07-what-is-digital-marketing-and-how-does-it-work--Z_KspIX1oXU.md"
+        }
+      ]
+    },
+    {
+      "priority": 2,
+      "playlist_id": "PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+      "retrieved_title": "Learn Digital Marketing Skills",
+      "canonical_playlist_url": "https://www.youtube.com/playlist?list=PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+      "processing_mode": "Selected supplied videos",
+      "supplied_video_ids": [
+        "jcDuq5Prt6A",
+        "8jJxQo7nGog",
+        "zArRjQ07CfU",
+        "d2xiKX3TAhQ",
+        "BZXLCn-8FjE",
+        "PV0WQHWKfA0",
+        "R1BOgBTzE1M"
+      ],
+      "supplied_order": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "seed_video_id": null,
+      "expected_entire_playlist_size": null,
+      "retrieved_entry_count": 7,
+      "playlist_metadata_status": "success",
+      "playlist_metadata_error": "",
+      "repository_folder": "transcripts/adam-erhart/02-learn-digital-marketing-skills",
+      "entries": [
+        {
+          "position": 1,
+          "video_id": "jcDuq5Prt6A",
+          "title": "5 Digital Marketing Skills to Master for 2026 & Beyond",
+          "canonical_video_url": "https://www.youtube.com/watch?v=jcDuq5Prt6A",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+          "primary_transcript_path": "transcripts/adam-erhart/02-learn-digital-marketing-skills/01-5-digital-marketing-skills-to-master-for-2026-and-beyond--jcDuq5Prt6A.md"
+        },
+        {
+          "position": 2,
+          "video_id": "8jJxQo7nGog",
+          "title": "THE #1 SKILL TO MASTER FOR DIGITAL MARKETING | Adam Erhart",
+          "canonical_video_url": "https://www.youtube.com/watch?v=8jJxQo7nGog",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+          "primary_transcript_path": "transcripts/adam-erhart/02-learn-digital-marketing-skills/02-the-1-skill-to-master-for-digital-marketing-adam-erhart--8jJxQo7nGog.md"
+        },
+        {
+          "position": 3,
+          "video_id": "zArRjQ07CfU",
+          "title": "12 Digital Marketing Tips To Help You Grow Your Business In 2026",
+          "canonical_video_url": "https://www.youtube.com/watch?v=zArRjQ07CfU",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+          "primary_transcript_path": "transcripts/adam-erhart/02-learn-digital-marketing-skills/03-12-digital-marketing-tips-to-help-you-grow-your-business-in-2026--zArRjQ07CfU.md"
+        },
+        {
+          "position": 4,
+          "video_id": "d2xiKX3TAhQ",
+          "title": "Digital Marketing for Beginners: 5 Strategies That Work | Adam Erhart",
+          "canonical_video_url": "https://www.youtube.com/watch?v=d2xiKX3TAhQ",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+          "primary_transcript_path": "transcripts/adam-erhart/02-learn-digital-marketing-skills/04-digital-marketing-for-beginners-5-strategies-that-work-adam-erhart--d2xiKX3TAhQ.md"
+        },
+        {
+          "position": 5,
+          "video_id": "BZXLCn-8FjE",
+          "title": "How to Create A Digital Marketing Strategy In Today’s Modern Landscape | Adam Erhart",
+          "canonical_video_url": "https://www.youtube.com/watch?v=BZXLCn-8FjE",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+          "primary_transcript_path": "transcripts/adam-erhart/02-learn-digital-marketing-skills/05-how-to-create-a-digital-marketing-strategy-in-todays-modern-landscape-adam-erhart--BZXLCn-8FjE.md"
+        },
+        {
+          "position": 6,
+          "video_id": "PV0WQHWKfA0",
+          "title": "Digital Marketing For Beginners | Adam Erhart",
+          "canonical_video_url": "https://www.youtube.com/watch?v=PV0WQHWKfA0",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+          "primary_transcript_path": "transcripts/adam-erhart/02-learn-digital-marketing-skills/06-digital-marketing-for-beginners-adam-erhart--PV0WQHWKfA0.md"
+        },
+        {
+          "position": 7,
+          "video_id": "R1BOgBTzE1M",
+          "title": "Digital Marketing Strategies For Small Business (... My TOP 20 Tips & Tricks)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=R1BOgBTzE1M",
+          "is_duplicate": true,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/05-digital-marketing-strategies-for-small-business-my-top-20-tips-and-tricks--R1BOgBTzE1M.md"
+        }
+      ]
+    },
+    {
+      "priority": 3,
+      "playlist_id": "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+      "retrieved_title": "Introduction To Marketing",
+      "canonical_playlist_url": "https://www.youtube.com/playlist?list=PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+      "processing_mode": "Selected supplied videos",
+      "supplied_video_ids": [
+        "h95cQkEWBx0",
+        "8Sj2tbh-ozE",
+        "2g2fSvvcN2Q",
+        "pbNlQs2eBDY",
+        "b8oP6oeJ5WM",
+        "n8M00vmp6v0",
+        "7cCjX5MY28A",
+        "_R-f_AlRLT8"
+      ],
+      "supplied_order": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "seed_video_id": null,
+      "expected_entire_playlist_size": null,
+      "retrieved_entry_count": 8,
+      "playlist_metadata_status": "success",
+      "playlist_metadata_error": "",
+      "repository_folder": "transcripts/adam-erhart/03-introduction-to-marketing",
+      "entries": [
+        {
+          "position": 1,
+          "video_id": "h95cQkEWBx0",
+          "title": "Digital Marketing 101 (A Beginner’s Guide To Marketing)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=h95cQkEWBx0",
+          "is_duplicate": true,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/01-digital-marketing-101-a-beginners-guide-to-marketing--h95cQkEWBx0.md"
+        },
+        {
+          "position": 2,
+          "video_id": "8Sj2tbh-ozE",
+          "title": "Introduction To Marketing | Marketing 101",
+          "canonical_video_url": "https://www.youtube.com/watch?v=8Sj2tbh-ozE",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+          "primary_transcript_path": "transcripts/adam-erhart/03-introduction-to-marketing/02-introduction-to-marketing-marketing-101--8Sj2tbh-ozE.md"
+        },
+        {
+          "position": 3,
+          "video_id": "2g2fSvvcN2Q",
+          "title": "How To Advertise For A Small Business",
+          "canonical_video_url": "https://www.youtube.com/watch?v=2g2fSvvcN2Q",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+          "primary_transcript_path": "transcripts/adam-erhart/03-introduction-to-marketing/03-how-to-advertise-for-a-small-business--2g2fSvvcN2Q.md"
+        },
+        {
+          "position": 4,
+          "video_id": "pbNlQs2eBDY",
+          "title": "How To Create A Marketing Plan | Adam Erhart",
+          "canonical_video_url": "https://www.youtube.com/watch?v=pbNlQs2eBDY",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+          "primary_transcript_path": "transcripts/adam-erhart/03-introduction-to-marketing/04-how-to-create-a-marketing-plan-adam-erhart--pbNlQs2eBDY.md"
+        },
+        {
+          "position": 5,
+          "video_id": "b8oP6oeJ5WM",
+          "title": "Marketing 101 Crash Course | Marketing 101",
+          "canonical_video_url": "https://www.youtube.com/watch?v=b8oP6oeJ5WM",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+          "primary_transcript_path": "transcripts/adam-erhart/03-introduction-to-marketing/05-marketing-101-crash-course-marketing-101--b8oP6oeJ5WM.md"
+        },
+        {
+          "position": 6,
+          "video_id": "n8M00vmp6v0",
+          "title": "4 Principles Of Marketing Strategy | Adam Erhart",
+          "canonical_video_url": "https://www.youtube.com/watch?v=n8M00vmp6v0",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+          "primary_transcript_path": "transcripts/adam-erhart/03-introduction-to-marketing/06-4-principles-of-marketing-strategy-adam-erhart--n8M00vmp6v0.md"
+        },
+        {
+          "position": 7,
+          "video_id": "7cCjX5MY28A",
+          "title": "5 Marketing Tips You Need To Know To GROW YOUR BUSINESS",
+          "canonical_video_url": "https://www.youtube.com/watch?v=7cCjX5MY28A",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+          "primary_transcript_path": "transcripts/adam-erhart/03-introduction-to-marketing/07-5-marketing-tips-you-need-to-know-to-grow-your-business--7cCjX5MY28A.md"
+        },
+        {
+          "position": 8,
+          "video_id": "_R-f_AlRLT8",
+          "title": "I Quit MICRO-MARKETING Here's why (Basics and Analytics)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=_R-f_AlRLT8",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P",
+          "primary_transcript_path": "transcripts/adam-erhart/03-introduction-to-marketing/08-i-quit-micro-marketing-here-s-why-basics-and-analytics--_R-f_AlRLT8.md"
+        }
+      ]
+    },
+    {
+      "priority": 4,
+      "playlist_id": "PLxb4RhBMfU_F-fhAGL00-CpG9BcEW1thc",
+      "retrieved_title": "Video Marketing Strategy",
+      "canonical_playlist_url": "https://www.youtube.com/playlist?list=PLxb4RhBMfU_F-fhAGL00-CpG9BcEW1thc",
+      "processing_mode": "Selected supplied videos",
+      "supplied_video_ids": [
+        "ykCSh0PKqpo",
+        "Awf_SgjrTQI"
+      ],
+      "supplied_order": [
+        1,
+        2
+      ],
+      "seed_video_id": null,
+      "expected_entire_playlist_size": null,
+      "retrieved_entry_count": 2,
+      "playlist_metadata_status": "success",
+      "playlist_metadata_error": "",
+      "repository_folder": "transcripts/adam-erhart/04-video-marketing-strategy",
+      "entries": [
+        {
+          "position": 1,
+          "video_id": "ykCSh0PKqpo",
+          "title": "How To Make Better Marketing and Advertising Videos",
+          "canonical_video_url": "https://www.youtube.com/watch?v=ykCSh0PKqpo",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_F-fhAGL00-CpG9BcEW1thc",
+          "primary_transcript_path": "transcripts/adam-erhart/04-video-marketing-strategy/01-how-to-make-better-marketing-and-advertising-videos--ykCSh0PKqpo.md"
+        },
+        {
+          "position": 2,
+          "video_id": "Awf_SgjrTQI",
+          "title": "Watch This Before Starting YouTube",
+          "canonical_video_url": "https://www.youtube.com/watch?v=Awf_SgjrTQI",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_F-fhAGL00-CpG9BcEW1thc",
+          "primary_transcript_path": "transcripts/adam-erhart/04-video-marketing-strategy/02-watch-this-before-starting-youtube--Awf_SgjrTQI.md"
+        }
+      ]
+    },
+    {
+      "priority": 5,
+      "playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+      "retrieved_title": "Content Marketing Strategy",
+      "canonical_playlist_url": "https://www.youtube.com/playlist?list=PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+      "processing_mode": "Selected supplied videos",
+      "supplied_video_ids": [
+        "rG88y8Lgv0w",
+        "OyM2T2t4OoE",
+        "0uaJDIc-n0M",
+        "_mZBOToAEIk",
+        "JcIqG143dyY",
+        "_rVKxx-mUDQ",
+        "OD22G8JRjQM",
+        "JRENE4FcpiI",
+        "l84ETfVheOM",
+        "dJvq8UeE8sg",
+        "7XjFMt6ER5w",
+        "MYijSfg0eNM",
+        "SKyKvGxpBYg",
+        "3LZLNgQCXfs",
+        "0d4-gmDv6Xc",
+        "Olx26i7j6U4",
+        "0zFpuU5Tupo",
+        "cr3zHh3eNGM"
+      ],
+      "supplied_order": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "seed_video_id": null,
+      "expected_entire_playlist_size": null,
+      "retrieved_entry_count": 18,
+      "playlist_metadata_status": "success",
+      "playlist_metadata_error": "",
+      "repository_folder": "transcripts/adam-erhart/05-content-marketing-strategy",
+      "entries": [
+        {
+          "position": 1,
+          "video_id": "rG88y8Lgv0w",
+          "title": "How To Create Content Fast - 7 Content Marketing Strategy Tips",
+          "canonical_video_url": "https://www.youtube.com/watch?v=rG88y8Lgv0w",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/01-how-to-create-content-fast-7-content-marketing-strategy-tips--rG88y8Lgv0w.md"
+        },
+        {
+          "position": 2,
+          "video_id": "OyM2T2t4OoE",
+          "title": "Content Marketing Strategy (Top 7 Tips and Tricks)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=OyM2T2t4OoE",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/02-content-marketing-strategy-top-7-tips-and-tricks--OyM2T2t4OoE.md"
+        },
+        {
+          "position": 3,
+          "video_id": "0uaJDIc-n0M",
+          "title": "Content and SEO (How To Get Your Content To Rank)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=0uaJDIc-n0M",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/03-content-and-seo-how-to-get-your-content-to-rank--0uaJDIc-n0M.md"
+        },
+        {
+          "position": 4,
+          "video_id": "_mZBOToAEIk",
+          "title": "Video Content Marketing (3 Video Content Marketing Strategies)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=_mZBOToAEIk",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/04-video-content-marketing-3-video-content-marketing-strategies--_mZBOToAEIk.md"
+        },
+        {
+          "position": 5,
+          "video_id": "JcIqG143dyY",
+          "title": "Content Marketing Strategy (Flexibility and Consistency)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=JcIqG143dyY",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/05-content-marketing-strategy-flexibility-and-consistency--JcIqG143dyY.md"
+        },
+        {
+          "position": 6,
+          "video_id": "_rVKxx-mUDQ",
+          "title": "How To Write Great Content | Content Marketing For Your Blog, Website, Or Ads (2026)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=_rVKxx-mUDQ",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/06-how-to-write-great-content-content-marketing-for-your-blog-website-or-ads-2026--_rVKxx-mUDQ.md"
+        },
+        {
+          "position": 7,
+          "video_id": "OD22G8JRjQM",
+          "title": "This Is The Marketing STRATEGY That Will CHANGE Your BUSINESS | Adam Erhart",
+          "canonical_video_url": "https://www.youtube.com/watch?v=OD22G8JRjQM",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/07-this-is-the-marketing-strategy-that-will-change-your-business-adam-erhart--OD22G8JRjQM.md"
+        },
+        {
+          "position": 8,
+          "video_id": "JRENE4FcpiI",
+          "title": "How To Create Content Marketing That Grows Your Business",
+          "canonical_video_url": "https://www.youtube.com/watch?v=JRENE4FcpiI",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/08-how-to-create-content-marketing-that-grows-your-business--JRENE4FcpiI.md"
+        },
+        {
+          "position": 9,
+          "video_id": "l84ETfVheOM",
+          "title": "Creating a Content Marketing Strategy (Quality VS Quantity)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=l84ETfVheOM",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/09-creating-a-content-marketing-strategy-quality-vs-quantity--l84ETfVheOM.md"
+        },
+        {
+          "position": 10,
+          "video_id": "dJvq8UeE8sg",
+          "title": "The Ultimate Content Marketing Strategy for 2026",
+          "canonical_video_url": "https://www.youtube.com/watch?v=dJvq8UeE8sg",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/10-the-ultimate-content-marketing-strategy-for-2026--dJvq8UeE8sg.md"
+        },
+        {
+          "position": 11,
+          "video_id": "7XjFMt6ER5w",
+          "title": "The Real Reason Why Your Content Isn’t Working",
+          "canonical_video_url": "https://www.youtube.com/watch?v=7XjFMt6ER5w",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/11-the-real-reason-why-your-content-isnt-working--7XjFMt6ER5w.md"
+        },
+        {
+          "position": 12,
+          "video_id": "MYijSfg0eNM",
+          "title": "THIS Will Change Your Business! (Content MARKETING Strategies)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=MYijSfg0eNM",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/12-this-will-change-your-business-content-marketing-strategies--MYijSfg0eNM.md"
+        },
+        {
+          "position": 13,
+          "video_id": "SKyKvGxpBYg",
+          "title": "Content Marketing 101 | Your Guide To Creating Successful Campaigns",
+          "canonical_video_url": "https://www.youtube.com/watch?v=SKyKvGxpBYg",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/13-content-marketing-101-your-guide-to-creating-successful-campaigns--SKyKvGxpBYg.md"
+        },
+        {
+          "position": 14,
+          "video_id": "3LZLNgQCXfs",
+          "title": "One Marketing Strategy That Works On Every Social Media Platform",
+          "canonical_video_url": "https://www.youtube.com/watch?v=3LZLNgQCXfs",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/14-one-marketing-strategy-that-works-on-every-social-media-platform--3LZLNgQCXfs.md"
+        },
+        {
+          "position": 15,
+          "video_id": "0d4-gmDv6Xc",
+          "title": "7 Steps to Creating a Content Marketing Plan",
+          "canonical_video_url": "https://www.youtube.com/watch?v=0d4-gmDv6Xc",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/15-7-steps-to-creating-a-content-marketing-plan--0d4-gmDv6Xc.md"
+        },
+        {
+          "position": 16,
+          "video_id": "Olx26i7j6U4",
+          "title": "The Ultimate Content Marketing Strategy for 2026",
+          "canonical_video_url": "https://www.youtube.com/watch?v=Olx26i7j6U4",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/16-the-ultimate-content-marketing-strategy-for-2026--Olx26i7j6U4.md"
+        },
+        {
+          "position": 17,
+          "video_id": "0zFpuU5Tupo",
+          "title": "Content Marketing Strategy for 2026 | Your Ultimate Planning Guide",
+          "canonical_video_url": "https://www.youtube.com/watch?v=0zFpuU5Tupo",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/17-content-marketing-strategy-for-2026-your-ultimate-planning-guide--0zFpuU5Tupo.md"
+        },
+        {
+          "position": 18,
+          "video_id": "cr3zHh3eNGM",
+          "title": "5 ways to INSTANTLY make BETTER CONTENT Marketing!",
+          "canonical_video_url": "https://www.youtube.com/watch?v=cr3zHh3eNGM",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/18-5-ways-to-instantly-make-better-content-marketing--cr3zHh3eNGM.md"
+        }
+      ]
+    },
+    {
+      "priority": 6,
+      "playlist_id": "PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz",
+      "retrieved_title": "Marketing Strategy 101",
+      "canonical_playlist_url": "https://www.youtube.com/playlist?list=PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz",
+      "processing_mode": "Selected supplied videos",
+      "supplied_video_ids": [
+        "ZYw52nVZl_0",
+        "R1BOgBTzE1M",
+        "Z_KspIX1oXU",
+        "kJ6V76Zd05Q",
+        "PKrc12Fr1qs"
+      ],
+      "supplied_order": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "seed_video_id": null,
+      "expected_entire_playlist_size": null,
+      "retrieved_entry_count": 5,
+      "playlist_metadata_status": "success",
+      "playlist_metadata_error": "",
+      "repository_folder": "transcripts/adam-erhart/06-marketing-strategy-101",
+      "entries": [
+        {
+          "position": 1,
+          "video_id": "ZYw52nVZl_0",
+          "title": "Understanding Marketing Basics For Businesses | Marketing 101",
+          "canonical_video_url": "https://www.youtube.com/watch?v=ZYw52nVZl_0",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz",
+          "primary_transcript_path": "transcripts/adam-erhart/06-marketing-strategy-101/01-understanding-marketing-basics-for-businesses-marketing-101--ZYw52nVZl_0.md"
+        },
+        {
+          "position": 2,
+          "video_id": "R1BOgBTzE1M",
+          "title": "Digital Marketing Strategies For Small Business (... My TOP 20 Tips & Tricks)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=R1BOgBTzE1M",
+          "is_duplicate": true,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/05-digital-marketing-strategies-for-small-business-my-top-20-tips-and-tricks--R1BOgBTzE1M.md"
+        },
+        {
+          "position": 3,
+          "video_id": "Z_KspIX1oXU",
+          "title": "What Is Digital Marketing? And How Does It Work?",
+          "canonical_video_url": "https://www.youtube.com/watch?v=Z_KspIX1oXU",
+          "is_duplicate": true,
+          "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+          "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/07-what-is-digital-marketing-and-how-does-it-work--Z_KspIX1oXU.md"
+        },
+        {
+          "position": 4,
+          "video_id": "kJ6V76Zd05Q",
+          "title": "How To Write Great Content – Content Marketing For Your Blog, Website, Or Ads",
+          "canonical_video_url": "https://www.youtube.com/watch?v=kJ6V76Zd05Q",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz",
+          "primary_transcript_path": "transcripts/adam-erhart/06-marketing-strategy-101/04-how-to-write-great-content-content-marketing-for-your-blog-website-or-ads--kJ6V76Zd05Q.md"
+        },
+        {
+          "position": 5,
+          "video_id": "PKrc12Fr1qs",
+          "title": "Should I Start a Blog or a Vlog? (Should You Start A YouTube Channel or Blog?)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=PKrc12Fr1qs",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz",
+          "primary_transcript_path": "transcripts/adam-erhart/06-marketing-strategy-101/05-should-i-start-a-blog-or-a-vlog-should-you-start-a-youtube-channel-or-blog--PKrc12Fr1qs.md"
+        }
+      ]
+    },
+    {
+      "priority": 7,
+      "playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+      "retrieved_title": "Modern Marketing Minute",
+      "canonical_playlist_url": "https://www.youtube.com/playlist?list=PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+      "processing_mode": "Entire playlist",
+      "supplied_video_ids": [
+        "lkYHmbKCnk4"
+      ],
+      "supplied_order": [
+        1
+      ],
+      "seed_video_id": "lkYHmbKCnk4",
+      "expected_entire_playlist_size": 22,
+      "retrieved_entry_count": 22,
+      "playlist_metadata_status": "success",
+      "playlist_metadata_error": "",
+      "repository_folder": "transcripts/adam-erhart/07-modern-marketing-minute",
+      "entries": [
+        {
+          "position": 1,
+          "video_id": "lkYHmbKCnk4",
+          "title": "Introduction to Modern Marketing Minute",
+          "canonical_video_url": "https://www.youtube.com/watch?v=lkYHmbKCnk4",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/01-introduction-to-modern-marketing-minute--lkYHmbKCnk4.md"
+        },
+        {
+          "position": 2,
+          "video_id": "zcHfKVEHGec",
+          "title": "Marketing Strategy | The Putting All Your Eggs in One Basket",
+          "canonical_video_url": "https://www.youtube.com/watch?v=zcHfKVEHGec",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/02-marketing-strategy-the-putting-all-your-eggs-in-one-basket--zcHfKVEHGec.md"
+        },
+        {
+          "position": 3,
+          "video_id": "DShTpQgHHZ8",
+          "title": "Marketing Strategy | How to Build a Million Dollar Network",
+          "canonical_video_url": "https://www.youtube.com/watch?v=DShTpQgHHZ8",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/03-marketing-strategy-how-to-build-a-million-dollar-network--DShTpQgHHZ8.md"
+        },
+        {
+          "position": 4,
+          "video_id": "zWshR40-wDc",
+          "title": "The 3 Things You Need for Marketing Success",
+          "canonical_video_url": "https://www.youtube.com/watch?v=zWshR40-wDc",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/04-the-3-things-you-need-for-marketing-success--zWshR40-wDc.md"
+        },
+        {
+          "position": 5,
+          "video_id": "QxXSHJ6HJHQ",
+          "title": "Marketing Strategy |  Marketing Lessons From a Stove",
+          "canonical_video_url": "https://www.youtube.com/watch?v=QxXSHJ6HJHQ",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/05-marketing-strategy-marketing-lessons-from-a-stove--QxXSHJ6HJHQ.md"
+        },
+        {
+          "position": 6,
+          "video_id": "D0mkoQORVNQ",
+          "title": "The Secrets to Rewiring your Marketing Brain",
+          "canonical_video_url": "https://www.youtube.com/watch?v=D0mkoQORVNQ",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/06-the-secrets-to-rewiring-your-marketing-brain--D0mkoQORVNQ.md"
+        },
+        {
+          "position": 7,
+          "video_id": "dlnDX7l7KiU",
+          "title": "Marketing Strategy | Your Price Dictates Your Customers",
+          "canonical_video_url": "https://www.youtube.com/watch?v=dlnDX7l7KiU",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/07-marketing-strategy-your-price-dictates-your-customers--dlnDX7l7KiU.md"
+        },
+        {
+          "position": 8,
+          "video_id": "qWVjj1mgsWI",
+          "title": "The Worst Business Growth Strategy Ever",
+          "canonical_video_url": "https://www.youtube.com/watch?v=qWVjj1mgsWI",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/08-the-worst-business-growth-strategy-ever--qWVjj1mgsWI.md"
+        },
+        {
+          "position": 9,
+          "video_id": "79bgttN9P5c",
+          "title": "Marketing Strategy | The Most Expensive Advice You'll Ever Receive",
+          "canonical_video_url": "https://www.youtube.com/watch?v=79bgttN9P5c",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/09-marketing-strategy-the-most-expensive-advice-you-ll-ever-receive--79bgttN9P5c.md"
+        },
+        {
+          "position": 10,
+          "video_id": "YI4dfNyqTFE",
+          "title": "The Death of Mass Marketing",
+          "canonical_video_url": "https://www.youtube.com/watch?v=YI4dfNyqTFE",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/10-the-death-of-mass-marketing--YI4dfNyqTFE.md"
+        },
+        {
+          "position": 11,
+          "video_id": "PsLr3y__7bc",
+          "title": "My New Content Marketing Strategy",
+          "canonical_video_url": "https://www.youtube.com/watch?v=PsLr3y__7bc",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/11-my-new-content-marketing-strategy--PsLr3y__7bc.md"
+        },
+        {
+          "position": 12,
+          "video_id": "UeO0ogZnqaY",
+          "title": "Content Depth vs Content Breadth",
+          "canonical_video_url": "https://www.youtube.com/watch?v=UeO0ogZnqaY",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/12-content-depth-vs-content-breadth--UeO0ogZnqaY.md"
+        },
+        {
+          "position": 13,
+          "video_id": "zf27TDUpzNM",
+          "title": "Positive Mental Attitude (Marketing Strategy)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=zf27TDUpzNM",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/13-positive-mental-attitude-marketing-strategy--zf27TDUpzNM.md"
+        },
+        {
+          "position": 14,
+          "video_id": "Vkk5z9Uf-NE",
+          "title": "Marketing Strategy | Pick Your Marketing Gurus Carefully",
+          "canonical_video_url": "https://www.youtube.com/watch?v=Vkk5z9Uf-NE",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/14-marketing-strategy-pick-your-marketing-gurus-carefully--Vkk5z9Uf-NE.md"
+        },
+        {
+          "position": 15,
+          "video_id": "gPrMUwdB-7s",
+          "title": "How to Create an Authentic (and Congruent) Marketing Strategy",
+          "canonical_video_url": "https://www.youtube.com/watch?v=gPrMUwdB-7s",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/15-how-to-create-an-authentic-and-congruent-marketing-strategy--gPrMUwdB-7s.md"
+        },
+        {
+          "position": 16,
+          "video_id": "82kTionerNc",
+          "title": "Marketing Differentiation and the Importance of Being Remarkable",
+          "canonical_video_url": "https://www.youtube.com/watch?v=82kTionerNc",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/16-marketing-differentiation-and-the-importance-of-being-remarkable--82kTionerNc.md"
+        },
+        {
+          "position": 17,
+          "video_id": "a61_Dbw06uM",
+          "title": "The Marketing Strategy of Care and Create",
+          "canonical_video_url": "https://www.youtube.com/watch?v=a61_Dbw06uM",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/17-the-marketing-strategy-of-care-and-create--a61_Dbw06uM.md"
+        },
+        {
+          "position": 18,
+          "video_id": "wv9heJROa9U",
+          "title": "How to Create Interesting Marketing (and an Excuse to Do Cool Stuff)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=wv9heJROa9U",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/18-how-to-create-interesting-marketing-and-an-excuse-to-do-cool-stuff--wv9heJROa9U.md"
+        },
+        {
+          "position": 19,
+          "video_id": "djJxmLsLPxI",
+          "title": "Marketing Strategy and Consistency",
+          "canonical_video_url": "https://www.youtube.com/watch?v=djJxmLsLPxI",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/19-marketing-strategy-and-consistency--djJxmLsLPxI.md"
+        },
+        {
+          "position": 20,
+          "video_id": "_f5cxP1Ci4k",
+          "title": "Marketing Strategy Battle (DIY vs D4Y vs DWY)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=_f5cxP1Ci4k",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/20-marketing-strategy-battle-diy-vs-d4y-vs-dwy--_f5cxP1Ci4k.md"
+        },
+        {
+          "position": 21,
+          "video_id": "XAJYVJ5hgDs",
+          "title": "7 Valuable Marketing Strategy Lessons (From Traffic & Conversion 2018)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=XAJYVJ5hgDs",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/21-7-valuable-marketing-strategy-lessons-from-traffic-and-conversion-2018--XAJYVJ5hgDs.md"
+        },
+        {
+          "position": 22,
+          "video_id": "3qcrb_T8TtI",
+          "title": "How To Increase Your Sales With Good Design",
+          "canonical_video_url": "https://www.youtube.com/watch?v=3qcrb_T8TtI",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_Hhurhw3HLXxoQXa_LhXAHv",
+          "primary_transcript_path": "transcripts/adam-erhart/07-modern-marketing-minute/22-how-to-increase-your-sales-with-good-design--3qcrb_T8TtI.md"
+        }
+      ]
+    },
+    {
+      "priority": 8,
+      "playlist_id": "PLxb4RhBMfU_HfQW9UtshQxeOA9-iV6bYo",
+      "retrieved_title": "Epic Content Marketing",
+      "canonical_playlist_url": "https://www.youtube.com/playlist?list=PLxb4RhBMfU_HfQW9UtshQxeOA9-iV6bYo",
+      "processing_mode": "Selected supplied videos",
+      "supplied_video_ids": [
+        "_rVKxx-mUDQ",
+        "kJ6V76Zd05Q",
+        "-chPfQn0c7U",
+        "rG88y8Lgv0w",
+        "DmRDV0W2v1k",
+        "OD22G8JRjQM"
+      ],
+      "supplied_order": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "seed_video_id": null,
+      "expected_entire_playlist_size": null,
+      "retrieved_entry_count": 6,
+      "playlist_metadata_status": "success",
+      "playlist_metadata_error": "",
+      "repository_folder": "transcripts/adam-erhart/08-epic-content-marketing",
+      "entries": [
+        {
+          "position": 1,
+          "video_id": "_rVKxx-mUDQ",
+          "title": "How To Write Great Content | Content Marketing For Your Blog, Website, Or Ads (2026)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=_rVKxx-mUDQ",
+          "is_duplicate": true,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/06-how-to-write-great-content-content-marketing-for-your-blog-website-or-ads-2026--_rVKxx-mUDQ.md"
+        },
+        {
+          "position": 2,
+          "video_id": "kJ6V76Zd05Q",
+          "title": "How To Write Great Content – Content Marketing For Your Blog, Website, Or Ads",
+          "canonical_video_url": "https://www.youtube.com/watch?v=kJ6V76Zd05Q",
+          "is_duplicate": true,
+          "primary_playlist_id": "PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz",
+          "primary_transcript_path": "transcripts/adam-erhart/06-marketing-strategy-101/04-how-to-write-great-content-content-marketing-for-your-blog-website-or-ads--kJ6V76Zd05Q.md"
+        },
+        {
+          "position": 3,
+          "video_id": "-chPfQn0c7U",
+          "title": "This Type of Tagline Makes Money (…How to Write a Great Tagline)",
+          "canonical_video_url": "https://www.youtube.com/watch?v=-chPfQn0c7U",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HfQW9UtshQxeOA9-iV6bYo",
+          "primary_transcript_path": "transcripts/adam-erhart/08-epic-content-marketing/03-this-type-of-tagline-makes-money-how-to-write-a-great-tagline---chPfQn0c7U.md"
+        },
+        {
+          "position": 4,
+          "video_id": "rG88y8Lgv0w",
+          "title": "How To Create Content Fast - 7 Content Marketing Strategy Tips",
+          "canonical_video_url": "https://www.youtube.com/watch?v=rG88y8Lgv0w",
+          "is_duplicate": true,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/01-how-to-create-content-fast-7-content-marketing-strategy-tips--rG88y8Lgv0w.md"
+        },
+        {
+          "position": 5,
+          "video_id": "DmRDV0W2v1k",
+          "title": "Content Marketing Strategy -  The Power Of Consistent And Quality Content",
+          "canonical_video_url": "https://www.youtube.com/watch?v=DmRDV0W2v1k",
+          "is_duplicate": false,
+          "primary_playlist_id": "PLxb4RhBMfU_HfQW9UtshQxeOA9-iV6bYo",
+          "primary_transcript_path": "transcripts/adam-erhart/08-epic-content-marketing/05-content-marketing-strategy-the-power-of-consistent-and-quality-content--DmRDV0W2v1k.md"
+        },
+        {
+          "position": 6,
+          "video_id": "OD22G8JRjQM",
+          "title": "This Is The Marketing STRATEGY That Will CHANGE Your BUSINESS | Adam Erhart",
+          "canonical_video_url": "https://www.youtube.com/watch?v=OD22G8JRjQM",
+          "is_duplicate": true,
+          "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+          "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/07-this-is-the-marketing-strategy-that-will-change-your-business-adam-erhart--OD22G8JRjQM.md"
+        }
+      ]
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "video_id": "R1BOgBTzE1M",
+      "exact_video_title": "Digital Marketing Strategies For Small Business (... My TOP 20 Tips & Tricks)",
+      "canonical_youtube_url": "https://www.youtube.com/watch?v=R1BOgBTzE1M",
+      "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+      "primary_playlist_title": "Digital Marketing Strategies",
+      "primary_playlist_position": 5,
+      "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/05-digital-marketing-strategies-for-small-business-my-top-20-tips-and-tricks--R1BOgBTzE1M.md",
+      "duplicate_playlist_ids": [
+        "PLxb4RhBMfU_H1yhuXU79byfYtuYJMCgF9",
+        "PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz"
+      ],
+      "duplicate_playlist_titles": [
+        "Learn Digital Marketing Skills",
+        "Marketing Strategy 101"
+      ],
+      "duplicate_playlist_positions": [
+        7,
+        2
+      ]
+    },
+    {
+      "video_id": "h95cQkEWBx0",
+      "exact_video_title": "Digital Marketing 101 (A Beginner’s Guide To Marketing)",
+      "canonical_youtube_url": "https://www.youtube.com/watch?v=h95cQkEWBx0",
+      "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+      "primary_playlist_title": "Digital Marketing Strategies",
+      "primary_playlist_position": 1,
+      "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/01-digital-marketing-101-a-beginners-guide-to-marketing--h95cQkEWBx0.md",
+      "duplicate_playlist_ids": [
+        "PLxb4RhBMfU_FDfzNl1x0d-rrOA5cNEN2P"
+      ],
+      "duplicate_playlist_titles": [
+        "Introduction To Marketing"
+      ],
+      "duplicate_playlist_positions": [
+        1
+      ]
+    },
+    {
+      "video_id": "Z_KspIX1oXU",
+      "exact_video_title": "What Is Digital Marketing? And How Does It Work?",
+      "canonical_youtube_url": "https://www.youtube.com/watch?v=Z_KspIX1oXU",
+      "primary_playlist_id": "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8",
+      "primary_playlist_title": "Digital Marketing Strategies",
+      "primary_playlist_position": 7,
+      "primary_transcript_path": "transcripts/adam-erhart/01-digital-marketing-strategies/07-what-is-digital-marketing-and-how-does-it-work--Z_KspIX1oXU.md",
+      "duplicate_playlist_ids": [
+        "PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz"
+      ],
+      "duplicate_playlist_titles": [
+        "Marketing Strategy 101"
+      ],
+      "duplicate_playlist_positions": [
+        3
+      ]
+    },
+    {
+      "video_id": "_rVKxx-mUDQ",
+      "exact_video_title": "How To Write Great Content | Content Marketing For Your Blog, Website, Or Ads (2026)",
+      "canonical_youtube_url": "https://www.youtube.com/watch?v=_rVKxx-mUDQ",
+      "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+      "primary_playlist_title": "Content Marketing Strategy",
+      "primary_playlist_position": 6,
+      "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/06-how-to-write-great-content-content-marketing-for-your-blog-website-or-ads-2026--_rVKxx-mUDQ.md",
+      "duplicate_playlist_ids": [
+        "PLxb4RhBMfU_HfQW9UtshQxeOA9-iV6bYo"
+      ],
+      "duplicate_playlist_titles": [
+        "Epic Content Marketing"
+      ],
+      "duplicate_playlist_positions": [
+        1
+      ]
+    },
+    {
+      "video_id": "kJ6V76Zd05Q",
+      "exact_video_title": "How To Write Great Content – Content Marketing For Your Blog, Website, Or Ads",
+      "canonical_youtube_url": "https://www.youtube.com/watch?v=kJ6V76Zd05Q",
+      "primary_playlist_id": "PLxb4RhBMfU_GoiBMtU9WPwVPnIGYCpCZz",
+      "primary_playlist_title": "Marketing Strategy 101",
+      "primary_playlist_position": 4,
+      "primary_transcript_path": "transcripts/adam-erhart/06-marketing-strategy-101/04-how-to-write-great-content-content-marketing-for-your-blog-website-or-ads--kJ6V76Zd05Q.md",
+      "duplicate_playlist_ids": [
+        "PLxb4RhBMfU_HfQW9UtshQxeOA9-iV6bYo"
+      ],
+      "duplicate_playlist_titles": [
+        "Epic Content Marketing"
+      ],
+      "duplicate_playlist_positions": [
+        2
+      ]
+    },
+    {
+      "video_id": "rG88y8Lgv0w",
+      "exact_video_title": "How To Create Content Fast - 7 Content Marketing Strategy Tips",
+      "canonical_youtube_url": "https://www.youtube.com/watch?v=rG88y8Lgv0w",
+      "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+      "primary_playlist_title": "Content Marketing Strategy",
+      "primary_playlist_position": 1,
+      "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/01-how-to-create-content-fast-7-content-marketing-strategy-tips--rG88y8Lgv0w.md",
+      "duplicate_playlist_ids": [
+        "PLxb4RhBMfU_HfQW9UtshQxeOA9-iV6bYo"
+      ],
+      "duplicate_playlist_titles": [
+        "Epic Content Marketing"
+      ],
+      "duplicate_playlist_positions": [
+        4
+      ]
+    },
+    {
+      "video_id": "OD22G8JRjQM",
+      "exact_video_title": "This Is The Marketing STRATEGY That Will CHANGE Your BUSINESS | Adam Erhart",
+      "canonical_youtube_url": "https://www.youtube.com/watch?v=OD22G8JRjQM",
+      "primary_playlist_id": "PLxb4RhBMfU_HQTzrP-9v22MyqZu-Z3kUj",
+      "primary_playlist_title": "Content Marketing Strategy",
+      "primary_playlist_position": 7,
+      "primary_transcript_path": "transcripts/adam-erhart/05-content-marketing-strategy/07-this-is-the-marketing-strategy-that-will-change-your-business-adam-erhart--OD22G8JRjQM.md",
+      "duplicate_playlist_ids": [
+        "PLxb4RhBMfU_HfQW9UtshQxeOA9-iV6bYo"
+      ],
+      "duplicate_playlist_titles": [
+        "Epic Content Marketing"
+      ],
+      "duplicate_playlist_positions": [
+        6
+      ]
+    }
+  ]
+}

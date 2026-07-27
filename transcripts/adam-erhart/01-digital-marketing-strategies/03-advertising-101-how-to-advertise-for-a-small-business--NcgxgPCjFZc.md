@@ -2,7 +2,7 @@
 title: "Advertising 101 - How To Advertise For A Small Business"
 creator: "Adam Erhart"
 video_id: "NcgxgPCjFZc"
-youtube_url: "[https://www.youtube.com/watch?v=NcgxgPCjFZc](https://www.youtube.com/watch?v=NcgxgPCjFZc)"
+youtube_url: "https://www.youtube.com/watch?v=NcgxgPCjFZc"
 playlist_title: "Digital Marketing Strategies"
 playlist_id: "PLxb4RhBMfU_G0v-DhqFq1zfdwBX7zzbW8"
 playlist_position: 3

@@ -32,13 +32,38 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Build Marketing on Authentic Belief and Congruence
 
-My name is Adam Erhart and welcome to modern marketing minute on this episode the importance of authenticity and belief clock is ticking let me ask you a question what story do you tell yourself this is an important question to ask because the answer is going to reflect and come across in all of your marketing.
+<p align="center"><em>Connect the internal story of the business with the values, emotions, and messages customers actually experience</em></p>
 
-Whether consciously by making an overt statement or subconsciously in the feelings and emotions that your customers are going to experience as a result of doing business with you you see the power of a good story also known as marketing isn't just in the story itself but in how much it's believed in as in the company's values or missions or vision statement or anything like that this is because you really can't fake it till you make it not that you want to and you can't fool all the people all the time not that you want to either and you certainly can't build marketing that entices or brings in buyers if they sense that something's online or incongruent this is because authenticity matters being congruent and consistent matters and telling powerful.
+> [!TIP]
+> **Study approach:** Compare the story the business tells itself with the story its market receives. Look for gaps between stated values and the feelings produced by the customer experience.
 
-Stories that your market and you believe in that matters too [Music].
+## Study Route
+
+1. [Internal Story](#1-examine-the-story-behind-the-marketing)
+2. [Congruence](#2-align-belief-values-and-customer-experience)
+
+---
+
+# Full Transcript
+
+## 1. Examine the Story Behind the Marketing
+
+### Internal belief appears in external communication
+
+My name is Adam Erhart and welcome to modern marketing minute on this episode the importance of authenticity and belief clock is ticking let me ask you a question **what story do you tell yourself** this is an important question to ask because the answer is going to reflect and come across in **all of your marketing**.
+
+---
+
+## 2. Align Belief Values and Customer Experience
+
+> [!NOTE]
+> Congruence means the values and story are credible across both explicit claims and the emotions produced by doing business with the company.
+
+Whether consciously by making an overt statement or subconsciously in the feelings and emotions that your customers are going to experience as a result of doing business with you you see the **power of a good story** also known as marketing isn't just in the story itself but in how much it's believed in as in the **company's values or missions or vision statement** or anything like that this is because you really can't fake it till you make it not that you want to and you can't fool all the people all the time not that you want to either and you certainly can't build marketing that entices or brings in buyers if they sense that something's online or incongruent this is because **authenticity matters** being **congruent and consistent matters** and telling powerful stories that your market and you believe in that matters too [Music].
+
+---
 
 ## Transcript processing note
 

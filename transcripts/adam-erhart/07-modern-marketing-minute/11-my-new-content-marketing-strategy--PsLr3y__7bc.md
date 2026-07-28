@@ -32,11 +32,47 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Use Micro Content to Sustain Consistent Publishing
 
-My name is Adam Erhart and welcome to modern marketing minute in this episode my new content strategy clock is tickin [Music] alright if you've been reading or watching or listening to myself for any length of time then you know that I believe content marketing is one of the greatest strategies available out there if you want to grow your business build your authority and generate more leads for your business in fact Seth Godin says content marketing is the only marketing that's left and he is absolutely right because content is essentially in everything regardless if you're running Facebook Ads doing video conducting podcast interviews running blogs whatever it is it's all content what makes content marketing so great is that it allows you to build massive levels of trust and authority in your market by being the one to deliver that information that insight that how-to.
+<p align="center"><em>Preserve the trust and reach of content marketing while reducing the effort required for each individual piece</em></p>
 
-Guide whatever it is whatever information you're trying to convey to your market also gives you more areas for touchpoints allows you to stay top of mind it essentially gives you more areas to engage and interact with your audience the drawbacks are admittedly takes a lot of time a lot of money and a lot of energy to produce a ton of content which is why if you're just getting started I really want to recommend you adopt a new strategy that I'm starting to use in my business more which is micro content and essentially is exactly what modern marketing minute is it's small actionable 1 to 3 minute content that's easy to produce easy to create and easy to consume for your. Audience you.
+> [!TIP]
+> **Study approach:** Separate the strategic value of content from its production burden. Then evaluate micro content by how easily the business can create it and the audience can act on it.
+
+## Study Route
+
+1. [Strategic Value](#1-recognize-why-content-supports-growth)
+2. [Trust and Reach](#2-create-authority-and-more-touchpoints)
+3. [Micro Content](#3-reduce-the-burden-of-consistency)
+
+---
+
+# Full Transcript
+
+## 1. Recognize Why Content Supports Growth
+
+### Every promotional format still depends on content
+
+My name is Adam Erhart and welcome to modern marketing minute in this episode my new content strategy clock is tickin [Music] alright if you've been reading or watching or listening to myself for any length of time then you know that I believe **content marketing** is one of the greatest strategies available out there if you want to **grow your business** **build your authority** and **generate more leads** for your business in fact Seth Godin says content marketing is the only marketing that's left and he is absolutely right because content is essentially in everything regardless if you're running Facebook Ads doing video conducting podcast interviews running blogs whatever it is it's all content
+
+---
+
+## 2. Create Authority and More Touchpoints
+
+### Useful information earns attention across repeated interactions
+
+What makes content marketing so great is that it allows you to build **massive levels of trust and authority** in your market by being the one to deliver that information that insight that how-to guide whatever it is whatever information you're trying to convey to your market also gives you **more areas for touchpoints** allows you to stay top of mind it essentially gives you more areas to engage and interact with your audience
+
+---
+
+## 3. Reduce the Burden of Consistency
+
+> [!NOTE]
+> Micro content keeps the lesson narrow enough to lower production effort and audience effort at the same time.
+
+The drawbacks are admittedly takes a lot of time a lot of money and a lot of energy to produce a ton of content which is why if you're just getting started I really want to recommend you adopt a new strategy that I'm starting to use in my business more which is **micro content** and essentially is exactly what modern marketing minute is it's **small actionable 1 to 3 minute content** that's easy to produce easy to create and easy to consume for your audience you.
+
+---
 
 ## Transcript processing note
 

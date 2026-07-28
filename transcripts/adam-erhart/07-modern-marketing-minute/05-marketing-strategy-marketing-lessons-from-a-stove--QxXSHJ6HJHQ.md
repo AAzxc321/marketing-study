@@ -32,13 +32,47 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Create the Marketing Cause Before Expecting the Result
+
+<p align="center"><em>Use the stove story to connect deliberate inputs, consistent promotion, and the business outcomes they are meant to produce</em></p>
+
+> [!TIP]
+> **Study approach:** Map every desired result to its preceding cause. Then identify where the business is waiting for an outcome before supplying the content, advertising, strategy, or effort that could produce it.
+
+## Study Route
+
+1. [The Story](#1-observe-the-stove-parable)
+2. [Cause and Effect](#2-match-every-outcome-to-an-input)
+3. [Timing](#3-invest-before-conditions-feel-perfect)
+
+---
+
+# Full Transcript
+
+## 1. Observe the Stove Parable
+
+### An impossible demand exposes a common business mistake
 
 My name is Adam Erhart and welcome to modern marketing minute on this episode marketing lessons from a stove clock is ticking all right so there's a powerful story that I'd like to share with you one that you may have heard before but I'd like you to read listen and see if you can take the lesson away and apply it to your business now the story is as follows there's a man who's sitting out front of his stove and he's absolutely freezing and he's cursing at it for not giving him any heat but the stove doesn't have any wood and so the stoves saying look give me some wood and then I'll give you some heat but the man is freaking out and getting angry at the stove man.
 
-Haven't we all been there in some way shape or form getting mad at the effect without the proper cause and really that's what it's all about there's nothing in the universe and nothing in your marketing where you're gonna get the effect without putting in the proper cause you're not gonna get more clients before you deliver value you're not gonna get more calls before you create that content you're not gonna get more profit before you run those ads and you're not gonna build the business you want without the proper strategy in place beforehand you've got to put in the effort if you want the rewards and yet so often this is forgotten people waiting until everything is just right before they put in the effort or expecting the returns from the market before they go out there and invest in their marketing which is.
+---
 
-Perhaps the greatest excuse I ever hear I'll wait till my business is profitable and then I'll start marketing well truth be told it's too late then you need to market now you need to market when the times are good and you need to keep doing your marketing throughout all of the ups and downs in your business if you want the output you've got to put in the input you.
+## 2. Match Every Outcome to an Input
+
+> [!IMPORTANT]
+> Work backward from the desired outcome and identify the specific value, content, advertising, or strategy that must exist first.
+
+Haven't we all been there in some way shape or form getting mad at the **effect without the proper cause** and really that's what it's all about there's nothing in the universe and nothing in your marketing where you're gonna get the effect without putting in the proper cause you're not gonna get **more clients before you deliver value** you're not gonna get **more calls before you create that content** you're not gonna get **more profit before you run those ads** and you're not gonna build the business you want without the **proper strategy** in place beforehand you've got to **put in the effort** if you want the rewards and yet so often this is forgotten people waiting until everything is just right before they put in the effort or expecting the returns from the market before they go out there and invest in their marketing which is perhaps the greatest excuse I ever hear I'll wait till my business is profitable and then I'll start marketing well.
+
+---
+
+## 3. Invest Before Conditions Feel Perfect
+
+### Consistency must survive both favorable and difficult periods
+
+Truth be told it's too late then you need to **market now** you need to market when the times are good and you need to keep doing your marketing throughout all of the ups and downs in your business if you want the **output** you've got to put in the **input** you.
+
+---
 
 ## Transcript processing note
 

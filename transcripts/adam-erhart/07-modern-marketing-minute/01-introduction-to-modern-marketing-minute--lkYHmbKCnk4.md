@@ -32,13 +32,47 @@ manually_reviewed: false
 - **Caption source:** Manual English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Turn Brief Marketing Lessons into Immediate Action
 
-Hey there Adam Erhart here and welcome to episode 1 of modern marketing minute really excited to have you joining me here and for the kickoff of this brand-new show which is all about giving you the most action-packed and valuable insights that I possibly can in as short a period as I can so modern marketing minute aims to deliver those best strategies those best tactics and tools and tips things that I'm using in my business things that I'm using in my clients businesses and things that I'm seeing successful in my friends and colleagues businesses so that you can learn them you can listen to them and then you can go and apply them in your business for immediate results now this.
+<p align="center"><em>Understand the purpose, depth, and intended use of the Modern Marketing Minute series</em></p>
 
-Show is going to aim to have episodes between the 1 and 3 minute mark so don't really want to go much longer than that if you're looking for more in-depth content there are the companion shows you can go look at including modern marketing podcasts and the modern marketing show whether on iTunes stitcher or YouTube and those are going to provide kind of that more in-depth and more detailed coverage but if you're looking for a quick hit of ideas of inspiration of insight of anything that you're going to be able to go out there and take and apply then modern marketing minute is for you so I invite you to subscribe to the show looking forward to getting to share all of these great.
+> [!TIP]
+> **Study approach:** Separate the show format from the learning habit it recommends. Note when a short episode is sufficient, when a companion show is more suitable, and how each idea should move into practice.
 
-Insights with you and hearing about the results that you have with them so keeping in the theme with modern marketing minute I'll sign off now and I'll see you in the next episode you.
+## Study Route
+
+1. [Purpose](#1-understand-the-short-lesson-format)
+2. [Depth](#2-match-the-format-to-the-needed-depth)
+3. [Application](#3-convert-each-insight-into-practice)
+
+---
+
+# Full Transcript
+
+## 1. Understand the Short-Lesson Format
+
+### A compact source of tactics, tools, and tested ideas
+
+Hey there Adam Erhart here and welcome to episode 1 of modern marketing minute really excited to have you joining me here and for the kickoff of this brand-new show which is all about giving you the most **action-packed and valuable insights** that I possibly can in as short a period as I can so modern marketing minute aims to deliver those **best strategies** those best tactics and tools and tips things that I'm using in my business things that I'm using in my clients businesses and things that I'm seeing successful in my friends and colleagues businesses so that you can learn them you can listen to them and then you can go and apply them in your business for **immediate results** now this show is going to aim to have episodes between the 1 and 3 minute mark so don't really want to go much longer than that.
+
+---
+
+## 2. Match the Format to the Needed Depth
+
+> [!NOTE]
+> Use the short series for focused prompts and the companion formats when a topic requires fuller explanation.
+
+If you're looking for **more in-depth content** there are the companion shows you can go look at including modern marketing podcasts and the modern marketing show whether on iTunes stitcher or YouTube and those are going to provide kind of that more in-depth and more detailed coverage but if you're looking for a **quick hit of ideas** of inspiration of insight of anything that you're going to be able to go out there and **take and apply** then modern marketing minute is for you.
+
+---
+
+## 3. Convert Each Insight into Practice
+
+### The lesson is complete only when the idea is applied
+
+So I invite you to subscribe to the show looking forward to getting to share all of these great insights with you and hearing about the results that you have with them so keeping in the theme with modern marketing minute I'll sign off now and I'll see you in the next episode you.
+
+---
 
 ## Transcript processing note
 

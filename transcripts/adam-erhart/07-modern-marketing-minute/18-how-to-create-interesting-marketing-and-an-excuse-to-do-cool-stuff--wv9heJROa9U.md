@@ -32,15 +32,57 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Create Interesting Marketing from Lived Experience
 
-On today's episode we're talking about how to create insanely interesting marketing and I'll give you an excuse to go out there and do some pretty cool stuff hey there my name is Adam Erhart and welcome to modern marketing minute on today's episode we're talking all about how to create insanely interesting marketing so one of the questions I get all the time is out how do you come up with so much new content and this is a pretty fair question after all my content marketing strategy involves blogging and video and podcasting social media posts I've lost lead magnets webinars live streams guest posting other interviews all sorts of stuff so I can get that on the outside it looks like kind of an overwhelming amount of new content to create so where do all.
+<p align="center"><em>Generate useful content by doing, documenting, measuring, and translating real experiences into customer lessons</em></p>
 
-These ideas and where does all this content come from well it's really pretty easy it comes from everyday life you see Gary Vaynerchuk once said document don't create and that's pretty much what I do with my marketing and all the content that I create everything that I write about or talk about it record like we're doing here is something that I've read or tried or implemented all I do is I implement it then I see what happens get the results and then I pass that on to you in some form of content and this is where we get to the excuse for you to go out there and do some pretty cool things you see someone once told me that if you.
+> [!TIP]
+> **Study approach:** Trace each content idea back to an experience. Record what was attempted, what happened, what was learned, and how that lesson becomes useful to a customer.
 
-Want to create interesting marketing and have an interesting business you need to do interesting things because your business and your marketing is going to be some form of reflection of your life and of the things that you're doing outside of business or even in business so let me say that again because that's really important if you want to create interesting marketing you need to do interesting things interesting life interesting marketing or cool things in cool things out so please use this as an excuse to get out there and do some really cool things either travel visit a new restaurant take up a new hobby and make sure that you document the process and the lessons that you learn from it and how they apply to your business and more specifically how your customers.
+## Study Route
 
-Could get some valuable lessons from that as well so tell me what cool thing are you going to do next make sure to let me know [Music].
+1. [Content Source](#1-start-with-the-volume-problem)
+2. [Documentation Loop](#2-turn-experience-into-content)
+3. [Interesting Inputs](#3-do-things-worth-documenting)
+4. [Action Challenge](#4-capture-the-next-useful-experience)
+
+---
+
+# Full Transcript
+
+## 1. Start with the Volume Problem
+
+### A wide content mix appears difficult until its source is identified
+
+On today's episode we're talking about how to create insanely **interesting marketing** and I'll give you an excuse to go out there and do some pretty cool stuff hey there my name is Adam Erhart and welcome to modern marketing minute on today's episode we're talking all about how to create insanely interesting marketing so one of the questions I get all the time is out how do you come up with so much new content and this is a pretty fair question after all my content marketing strategy involves blogging and video and podcasting social media posts I've lost lead magnets webinars live streams guest posting other interviews all sorts of stuff so I can get that on the outside it looks like kind of an overwhelming amount of new content to create so where do all these ideas and where does all this content come from
+
+---
+
+## 2. Turn Experience into Content
+
+> [!NOTE]
+> The operating loop is simple: try something, observe the result, extract the lesson, and publish the lesson in an appropriate format.
+
+Well it's really pretty easy it comes from **everyday life** you see Gary Vaynerchuk once said **document don't create** and that's pretty much what I do with my marketing and all the content that I create everything that I write about or talk about it record like we're doing here is something that I've read or tried or implemented all I do is I **implement it** then I see what happens **get the results** and then I pass that on to you in some form of content and this is where we get to the excuse for you to go out there and do some pretty cool things
+
+---
+
+## 3. Do Things Worth Documenting
+
+> [!IMPORTANT]
+> Better source material begins before publishing. Create experiences that can produce observations relevant to the business and its customers.
+
+You see someone once told me that if you want to create interesting marketing and have an interesting business you need to **do interesting things** because your business and your marketing is going to be some form of reflection of your life and of the things that you're doing outside of business or even in business so let me say that again because that's really important if you want to create interesting marketing you need to do interesting things interesting life interesting marketing or cool things in cool things out
+
+---
+
+## 4. Capture the Next Useful Experience
+
+### Choose an activity and document both process and application
+
+So please use this as an excuse to get out there and do some really cool things either travel visit a new restaurant take up a new hobby and make sure that you **document the process** and the lessons that you learn from it and how they apply to your business and more specifically how your customers could get some **valuable lessons** from that as well so tell me what cool thing are you going to do next make sure to let me know [Music].
+
+---
 
 ## Transcript processing note
 

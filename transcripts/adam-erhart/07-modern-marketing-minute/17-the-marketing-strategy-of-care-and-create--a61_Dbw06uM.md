@@ -32,17 +32,57 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Build Lasting Attention by Caring and Creating
 
-My name is not Amer heart and welcome to modern marketing minute in this episode we're talking about the marketing strategy of care and create the clock is ticking I remember when I first got started in digital marketing and I would watch my Facebook newsfeed absolutely fill up with all the Guru's posting pictures of their Ferraris and their beachfront mansions and all the screenshots of all the money that they were supposedly making which I later found out later was mostly a facade but at the time they prided themselves on confusing and overwhelming and essentially showing anybody who wasn't using their system that they weren't gonna make it alone and to them I was a failure I was a peon I was just some.
+<p align="center"><em>Contrast short-term hype with steady value creation, authentic service, trust, and reputation</em></p>
 
-Tiny little speck that didn't mean anything that was until I bought into their madness so what did I do.
+> [!TIP]
+> **Study approach:** Track the time horizon of each strategy. Compare what attracts immediate attention with what remains credible after the hype disappears.
 
-Well admittedly at first I did buy all the programs and did try to figure out what the secret sauce really was and it turns out there really wasn't a secret sauce so I just kept plugging away caring more creating more and building my business by serving people in the best way that I knew how to do now fast-forward quite a few years later and what's happened well ninety five percent of them have all but disappeared from my newsfeed completely gone on to chase the next shiny object or maybe they've been run out of town by the market for kind of hyping and Hawking all of this garbage the good news is the five percent of us that have been slowly but steadily.
+## Study Route
 
-Building our brands creating value communicating a clear and consistent message well we're still here serving selling and doing better than we ever thought possible and that's what I want for you you see it's really easy to get attention all you have to do is scream say something obnoxious be a rageous or obscene light your hair on fire any of the above but that's short term attention rather what we're going for is lasting authentic attention that allows you to really build good rapport and good trust with your audience and with your market I can't even begin to express just how effective this strategy has been over the years because it's rooted in a genuine care and appreciation for the people that you're.
+1. [Hype Model](#1-recognize-attention-built-on-overwhelm)
+2. [Steady Alternative](#2-keep-caring-creating-and-serving)
+3. [Lasting Attention](#3-build-rapport-instead-of-noise)
+4. [Reputation](#4-turn-genuine-care-into-consistent-work)
 
-Trying to serve it's the reason that I create so much content the reason that I put so much out there and the reason that I try and help any way that I can because I genuinely care which enabled me to build a long-lasting and very effective business it's a great path to success one that provides a ton of value and allows you to sleep really. Well at night as well care more and remember your reputation is everything [Music].
+---
+
+# Full Transcript
+
+## 1. Recognize Attention Built on Overwhelm
+
+### A fear-based facade can generate activity without durable trust
+
+My name is not Amer heart and welcome to modern marketing minute in this episode we're talking about the marketing strategy of care and create the clock is ticking I remember when I first got started in digital marketing and I would watch my Facebook newsfeed absolutely fill up with all the Guru's posting pictures of their Ferraris and their beachfront mansions and all the screenshots of all the money that they were supposedly making which I later found out later was mostly a facade but at the time they prided themselves on **confusing and overwhelming** and essentially showing anybody who wasn't using their system that they weren't gonna make it alone and to them I was a failure I was a peon I was just some tiny little speck that didn't mean anything that was until I bought into their madness so what did I do.
+
+---
+
+## 2. Keep Caring Creating and Serving
+
+> [!NOTE]
+> The alternative is cumulative: continue serving, communicate consistently, and let the brand grow through repeated value.
+
+Well admittedly at first I did buy all the programs and did try to figure out what the **secret sauce** really was and it turns out there really wasn't a secret sauce so I just kept plugging away **caring more creating more** and building my business by serving people in the best way that I knew how to do now fast-forward quite a few years later and what's happened well ninety five percent of them have all but disappeared from my newsfeed completely gone on to chase the next shiny object or maybe they've been run out of town by the market for kind of hyping and Hawking all of this garbage the good news is the five percent of us that have been slowly but steadily building our brands **creating value** communicating a **clear and consistent message** well we're still here serving selling and doing better than we ever thought possible
+
+---
+
+## 3. Build Rapport Instead of Noise
+
+> [!IMPORTANT]
+> Distinguish momentary attention from attention that compounds into rapport and trust with the intended market.
+
+And that's what I want for you you see it's really easy to get attention all you have to do is scream say something obnoxious be a rageous or obscene light your hair on fire any of the above but that's **short term attention** rather what we're going for is **lasting authentic attention** that allows you to really build good rapport and good trust with your audience and with your market I can't even begin to express just how effective this strategy has been over the years because it's rooted in a **genuine care and appreciation** for the people that you're trying to serve
+
+---
+
+## 4. Turn Genuine Care into Consistent Work
+
+### Service becomes visible through repeated creation
+
+It's the reason that I create so much content the reason that I put so much out there and the reason that I try and help any way that I can because I genuinely care which enabled me to build a long-lasting and very effective business it's a great path to success one that provides a ton of value and allows you to sleep really well at night as well care more and remember **your reputation is everything** [Music].
+
+---
 
 ## Transcript processing note
 

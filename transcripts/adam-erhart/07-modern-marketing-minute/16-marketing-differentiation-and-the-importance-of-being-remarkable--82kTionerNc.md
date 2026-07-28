@@ -32,13 +32,48 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Make the Offer Remarkable Enough to Be Discussed
 
-My name is Adam Erhart and welcome to modern marketing minute in this episode marketing differentiation and the importance of being remarkable clock is ticking one of my all-time favorite business and marketing books is purple cow by Seth Godin seriously that book changed my life if you followed me for any length of time then you know I used to listen to it avidly and voraciously both to and from classes well taking marketing back in college and the reality is this one single book may have done more for me than my entire marketing degree in fact that's the power of one really good idea and purple cow doesn't just have one good idea it's packed with them so really what it did is watch over my.
+<p align="center"><em>Use differentiation, repetition, and the Purple Cow question to escape bland positioning and market noise</em></p>
 
-Brain and altered the way that I see things when it comes to business and marketing and advertising in general and that's the power of repetition consuming powerful and positive messages over and over again which can essentially brainwash you into seeing things in a better and more effective light but I digress anyway one of the questions as Seth Godin asks in purple cow is hey did you see that a simple question and yet the effects are profound you see all too often entrepreneurs fear that just because they're not an over-the-top personality or flashy or crazy or fake or phony like some reality TV star well they take the complete opposite approach and end up being far too bland and far too boring thinking they're gonna get by by offering a good product or service at a fair price sadly just providing a good.
+> [!TIP]
+> **Study approach:** Apply the central question to the offer, message, and customer experience. Identify what a customer could point to, remember, and repeat to someone else.
 
-Product or service at a good price is no longer enough to succeed why well because that's exactly what every single other entrepreneur out there is doing and it's boring it's vanilla and it gets lost in the noise what you want instead is for people to say hey did you see that that's remarkable that's Purple Cow and that's pure marketing gold give them something to talk about you.
+## Study Route
+
+1. [Idea Formation](#1-let-strong-ideas-reshape-perspective)
+2. [Remarkability Test](#2-ask-whether-anyone-would-notice)
+3. [Differentiation](#3-give-the-market-something-to-discuss)
+
+---
+
+# Full Transcript
+
+## 1. Let Strong Ideas Reshape Perspective
+
+### Repeated exposure can change how business problems are seen
+
+My name is Adam Erhart and welcome to modern marketing minute in this episode marketing differentiation and the importance of being remarkable clock is ticking one of my all-time favorite business and marketing books is **purple cow by Seth Godin** seriously that book changed my life if you followed me for any length of time then you know I used to listen to it avidly and voraciously both to and from classes well taking marketing back in college and the reality is this one single book may have done more for me than my entire marketing degree in fact that's the **power of one really good idea** and purple cow doesn't just have one good idea it's packed with them so really what it did is watch over my brain and altered the way that I see things when it comes to business and marketing and advertising in general and that's the **power of repetition** consuming powerful and positive messages over and over again which can essentially brainwash you into seeing things in a better and more effective light but I digress
+
+---
+
+## 2. Ask Whether Anyone Would Notice
+
+> [!NOTE]
+> Use the question as a visibility test: determine whether the business provides a reason for someone to notice and mention it.
+
+Anyway one of the questions as Seth Godin asks in purple cow is **hey did you see that** a simple question and yet the effects are profound you see all too often entrepreneurs fear that just because they're not an over-the-top personality or flashy or crazy or fake or phony like some reality TV star well they take the complete opposite approach and end up being **far too bland and far too boring** thinking they're gonna get by by offering a good product or service at a fair price
+
+---
+
+## 3. Give the Market Something to Discuss
+
+> [!IMPORTANT]
+> Quality and fair pricing are baseline expectations in this lesson. Differentiation requires an additional reason to be remembered.
+
+Sadly just providing a good product or service at a good price is no longer enough to succeed why well because that's exactly what every single other entrepreneur out there is doing and it's boring it's vanilla and it gets **lost in the noise** what you want instead is for people to say hey did you see that **that's remarkable** that's Purple Cow and that's pure marketing gold **give them something to talk about** you.
+
+---
 
 ## Transcript processing note
 

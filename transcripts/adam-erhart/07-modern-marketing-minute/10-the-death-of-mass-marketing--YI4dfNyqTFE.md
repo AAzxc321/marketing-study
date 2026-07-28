@@ -32,13 +32,38 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Align the Market Message and Media
 
-My name is Adam Erhart and welcome to modern marketing minute on this episode the death of mass marketing clock is tickin I want you to close your eyes right now and imagine the absurdity of.
+<p align="center"><em>Avoid irrelevant mass outreach by matching the audience, communication, channel, and timing</em></p>
 
-What I'm about to describe to you unless you're driving and you should probably keep them open all right they closed good let's begin imagine for a second a barbecue food truck parked outside a vegan health conference at lunchtime or a fitness club for senior women sending out direct mail pieces to men under 30 or a golf course advertising to anyone who likes the dr. Oz Show sounds crazy right yeah they might get one or two sales but otherwise this is completely irrelevant marketing and yet this type of thing happens all the time maybe not in these extreme cases but still all across the board people are not lining up who they're trying to reach with the message and on the right medium and that is a recipe for disaster.
+> [!TIP]
+> **Study approach:** Use each exaggerated example as a mismatch diagnosis. Then apply both three-part formulations to a real campaign and identify which element would waste the budget if misaligned.
 
-You see to make your marketing matter and to actually get a return on investment from your marketing dollars you need to nail three things and that is right people right place and right time or right market right message and right media if you get all three right you've got a recipe for success and if you miss them well you're gonna be wasting your marketing dollars this is. Why strategy is an absolutely fundamental core and figuring out what you're doing and who you're doing it for before you start pouring money down the drain is crucial if you want to succeed in business and with your [Music] marketing.
+## Study Route
+
+1. [Mismatch Examples](#1-see-why-broad-targeting-fails)
+2. [Alignment Framework](#2-match-the-audience-communication-and-channel)
+
+---
+
+# Full Transcript
+
+## 1. See Why Broad Targeting Fails
+
+### Reach without relevance creates avoidable waste
+
+My name is Adam Erhart and welcome to modern marketing minute on this episode the death of mass marketing clock is tickin I want you to close your eyes right now and imagine the absurdity of what I'm about to describe to you unless you're driving and you should probably keep them open all right they closed good let's begin imagine for a second a barbecue food truck parked outside a vegan health conference at lunchtime or a fitness club for senior women sending out direct mail pieces to men under 30 or a golf course advertising to anyone who likes the dr. Oz Show sounds crazy right yeah they might get one or two sales but otherwise this is completely **irrelevant marketing** and yet this type of thing happens all the time maybe not in these extreme cases but still all across the board people are not lining up who they're trying to reach with the message and on the right medium and that is a recipe for disaster.
+
+---
+
+## 2. Match the Audience Communication and Channel
+
+> [!IMPORTANT]
+> Test all three elements together. A strong message can still fail when it reaches the wrong people or appears in the wrong medium.
+
+You see to make your marketing matter and to actually get a return on investment from your marketing dollars you need to nail three things and that is **right people right place and right time** or **right market right message and right media** if you get all three right you've got a **recipe for success** and if you miss them well you're gonna be **wasting your marketing dollars** this is why **strategy is an absolutely fundamental core** and figuring out what you're doing and who you're doing it for before you start pouring money down the drain is crucial if you want to succeed in business and with your [Music] marketing.
+
+---
 
 ## Transcript processing note
 

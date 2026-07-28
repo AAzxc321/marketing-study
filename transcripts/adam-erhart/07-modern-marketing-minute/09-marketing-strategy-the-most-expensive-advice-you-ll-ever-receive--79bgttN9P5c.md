@@ -32,13 +32,57 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Filter Advice Before It Shapes the Business
 
-My name is Adam Erhart and welcome to modern marketing minute on today's episode I'll share with you the most expensive advice you'll ever receive clock is ticking do you have a friend who's really out of shape and yet is the first one to offer health advice or any tips on nutrition or exercise or do you have a family member who's never left the state and yet is the first person to weigh in on any international fairs or foreign policy topics or do you have a broke friend who's always the first one to pipe in with the latest investing strategy or anything like that Bitcoin anyone well I know I do in fact I remember clearly just like it was yesterday a debate I had with my.
+<p align="center"><em>Assess the source, practical standing, and long-term consequences of guidance before acting on it</em></p>
 
-Roommates friend way back in college about a guitar playing technique and here's the thing the guy didn't even play guitar but the point of this episode is not to talk about which guitar technique is better than the other rather it's to bring to light the dangerous and often accepted policy of just accepting other people's advice and taking it at face value especially when they are in no position whatsoever to offer advice on the topic they're talking about and yet it happens all the time it happens in health it happens in politics and it happens in marketing which is incredibly dangerous because people's businesses and livelihoods are at stake and in today's day and age with the barriers to entry solo and anybody with a Facebook page able to get out.
+> [!TIP]
+> **Study approach:** For every claim, examine three things: the speaker's relevant experience, the evidence behind the recommendation, and the cost of being wrong over both the short and long term.
 
-There and start ruining people's businesses as a so-called expert or self-proclaimed guru the stakes are higher than they've ever been before so. What is the most expensive advice you'll ever receive well it's bad advice because bad advice will not only ruin you in the short term it'll also set you up strategically for failure in the long term which may damage your business may damage your reputation and will certainly damage the ability to grow the business that you truly want to build so my advice is this be very careful about who you listen to guard your ears protect what you read question everything and if you get that bad feeling in your gut run you.
+## Study Route
+
+1. [Familiar Pattern](#1-recognize-advice-without-relevant-standing)
+2. [Business Risk](#2-challenge-unsupported-expertise)
+3. [True Cost](#3-account-for-long-term-damage)
+4. [Listening Filter](#4-protect-the-inputs-that-guide-decisions)
+
+---
+
+# Full Transcript
+
+## 1. Recognize Advice Without Relevant Standing
+
+### Familiar examples reveal an accepted decision-making problem
+
+My name is Adam Erhart and welcome to modern marketing minute on today's episode I'll share with you the most expensive advice you'll ever receive clock is ticking do you have a friend who's really out of shape and yet is the first one to offer health advice or any tips on nutrition or exercise or do you have a family member who's never left the state and yet is the first person to weigh in on any international fairs or foreign policy topics or do you have a broke friend who's always the first one to pipe in with the latest investing strategy or anything like that Bitcoin anyone well I know I do in fact I remember clearly just like it was yesterday a debate I had with my roommates friend way back in college about a guitar playing technique and here's the thing the guy didn't even play guitar but
+
+---
+
+## 2. Challenge Unsupported Expertise
+
+> [!CAUTION]
+> Advice becomes dangerous when confidence is mistaken for competence and the recipient never tests whether the source is qualified.
+
+The point of this episode is not to talk about which guitar technique is better than the other rather it's to bring to light the dangerous and often accepted policy of just **accepting other people's advice** and **taking it at face value** especially when they are in **no position whatsoever** to offer advice on the topic they're talking about and yet it happens all the time it happens in health it happens in politics and it happens in marketing which is incredibly dangerous because people's businesses and livelihoods are at stake and in today's day and age with the barriers to entry solo and anybody with a Facebook page able to get out there and start ruining people's businesses as a so-called expert or self-proclaimed guru the stakes are higher than they've ever been before.
+
+---
+
+## 3. Account for Long-Term Damage
+
+> [!IMPORTANT]
+> Include strategic, reputational, and growth consequences when estimating the real cost of a bad recommendation.
+
+So, what is the most expensive advice you'll ever receive well it's **bad advice** because bad advice will not only ruin you in the short term it'll also set you up **strategically for failure** in the long term which may damage your business may damage your reputation and will certainly damage the ability to grow the business that you truly want to build
+
+---
+
+## 4. Protect the Inputs That Guide Decisions
+
+### Question the source before accepting the direction
+
+So my advice is this be very careful about who you listen to **guard your ears** protect what you read **question everything** and if you get that bad feeling in your gut run you.
+
+---
 
 ## Transcript processing note
 

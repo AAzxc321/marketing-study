@@ -32,7 +32,33 @@ manually_reviewed: false
 - **Caption source:** Auto-generated English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# Choosing One Digital Strategy That Fits
+
+<p align="center"><em>Five proven options compared through authority, reach, intent, production demands, audience fit, and conversion readiness</em></p>
+
+> [!TIP]
+> **Study approach:** Begin with the warning against launching every tactic at once. Then compare the five strategies by the audience behavior, resources, strengths, and business conditions each one requires.
+
+## Study Route
+
+1. [Choose Before You Execute](#1-choose-before-you-execute)
+2. [YouTube Marketing](#2-strategy-one-develop-a-youtube-presence)
+3. [Personal Social Profiles](#3-strategy-two-activate-personal-profiles)
+4. [Search Engine Optimization](#4-strategy-three-capture-search-intent)
+5. [Podcasting](#5-strategy-four-build-authority-through-audio)
+6. [Facebook and Instagram Ads](#6-strategy-five-accelerate-with-paid-social)
+7. [Closing](#7-closing)
+
+---
+
+# Full Transcript
+
+## 1. Choose Before You Execute
+
+### Five options, one starting point
+
+> [!WARNING]
+> The lesson explicitly cautions against deploying all five strategies at once. Compare them first, then select the option that fits the business's current stage and resources.
 
 Digital marketing is one of the most valuable skills you could ever hope to learn but with the speed with which it changes it's always easy to stay up-to-date and current with what strategies are working and which ones are just going to waste your time energy and money and that's why in this episode I'm gonna save you all of that the time the energy and the money by breaking down five proven digital marketing strategies that work across different markets businesses and industries so you can pick and choose which ones are gonna be right for you and where you want to go alright let's get to it hey there my name is Adam Erhart marketing strategist and welcome to the marketing show all right let's talk.
 
@@ -42,7 +68,15 @@ Them it's just too much and aside from being too much it's just not effective be
 
 Growing your business to that hundred K a year mark or to that million dollar a year mark or to that multi-million dollar a year market or to the ten million and so on and so on so regardless you're gonna have to go.
 
-Through these strategies as I present them pick and choose the one that you feel is the right one for you and then start there all right so with all that said let's dive into the first digital marketing strategy that hi Emma firm believer in probably unsurprisingly and that would be YouTube marketing it's hard to create a YouTube video on digital marketing strategy and not talk about YouTube itself after all it's just so darn effective regardless of what market or business or industry you're in first of all Google owns YouTube making it kind of the world's second largest search engine also gets just an amazing amount of traffic and regardless of what demographic that your business serves.
+Through these strategies as I present them pick and choose the one that you feel is the right one for you and then start there
+
+---
+
+## 2. Strategy One: Develop a YouTube Presence
+
+### Authority, trust, discoverability, and reuse
+
+all right so with all that said let's dive into the first digital marketing strategy that hi Emma firm believer in probably unsurprisingly and that would be **YouTube marketing** it's hard to create a YouTube video on digital marketing strategy and not talk about YouTube itself after all it's just so darn effective regardless of what market or business or industry you're in first of all Google owns YouTube making it kind of the world's second largest search engine also gets just an amazing amount of traffic and regardless of what demographic that your business serves.
 
 Whether you're surfing kind of the 18 and under crowd the 18 to 25 25 to 35 35 to 45 45 to 55 and so on. Well that demographic is active and present on YouTube and they are searching for content that you could probably be the presenter of or the deliverer of this kind of content the benefits of creating YouTube content of developing a YouTube marketing strategy there multipled and really what it comes down to is essentially the ability to create valuable educational or even entertaining content that establishes you establishes your business as the authority and as the go-to person in your field increasing credibility and a grand increasing authority which when the time comes for someone to make that purchase decision or trying to decide.
 
@@ -60,19 +94,36 @@ There's the energy the energy that it takes to create these kind of videos or an
 
 On the other side of it listening and watching but you're not here in the office right now at least I don't think you are which means you're gonna need to get comfortable being uncomfortable and talking to an inanimate object like a camera the beauty though is if you go through the hassle and the headaches of actually creating this content there's a ton of different ways that you can use it to further promote and further market your business you can take these videos and you can obviously leave them on YouTube itself to direct traffic to you can take the video off YouTube and embed it on your website or send the link through an email to again increase credibility and provide some more value.
 
-You can even take that video and run a targeted YouTube advertising campaign you can target people based on keywords or based on what kind of content they consume or if you have a small local business phenomenal options available to target a small geographic area and really establish yourself as that authority in your local market what I found to be the most beneficial reason of all though is that it allows you to create an authority brand you can go out there and create content around a certain subject and you can become well-known for your knowledge and for your expertise around this subject better than nearly any other platform out there because again video is just a lot more compelling a lot more.
+You can even take that video and run a targeted YouTube advertising campaign you can target people based on keywords or based on what kind of content they consume or if you have a small local business phenomenal options available to target a small geographic area and really establish yourself as that authority in your local market what I found to be the most beneficial reason of all though is that it allows you to create an **authority brand** you can go out there and create content around a certain subject and you can become well-known for your knowledge and for your expertise around this subject better than nearly any other platform out there because again video is just a lot more compelling a lot more.
 
-Intriguing and it builds trust just that much better and as if there wasn't enough good reasons to still be considering a YouTube strategy there's all the additional ways that you can make money from YouTube including ad revenue from the ads that show up on your videos brand deals affiliate marketing or mainly what I like to do which is encourage people to use YouTube to drive their traffic in their viewers to their main core business offer alright enough about that one let's move on to the next one which is a Facebook or Instagram personal profile now this parts important because we really want to clearly differentiate sort of the personal profiles from the more business-minded profiles everybody's familiar with say the Facebook business.
+Intriguing and it builds trust just that much better and as if there wasn't enough good reasons to still be considering a YouTube strategy there's all the additional ways that you can make money from YouTube including ad revenue from the ads that show up on your videos brand deals affiliate marketing or mainly what I like to do which is encourage people to use YouTube to drive their traffic in their viewers to their main core business offer
 
-Page where you go out there and you've got a page dedicated specifically to your business you can create content on it that nobody's going to see and you can ads through that page the flipside though is the personal profile now this will apply to Instagram a little bit but I'm specifically more talking about Facebook because the way that the algorithm has changed the way that it works now and again the way the consumer behavior and the psychology behind it has shifted and has adapted over the years well it makes the Facebook personal profile more powerful today than it ever has been before first of all to understand why this is important we have to take a look at the algorithms in general whether we're talking about the Instagram algorithm or the Facebook.
+---
+
+## 3. Strategy Two: Activate Personal Profiles
+
+### Reach through existing relationships
+
+alright enough about that one let's move on to the next one which is a Facebook or Instagram personal profile now this parts important because we really want to clearly differentiate sort of the personal profiles from the more business-minded profiles everybody's familiar with say the Facebook business.
+
+Page where you go out there and you've got a page dedicated specifically to your business you can create content on it that nobody's going to see and you can ads through that page the flipside though is the personal profile now this will apply to Instagram a little bit but I'm specifically more talking about Facebook because the way that the algorithm has changed the way that it works now and again the way the consumer behavior and the psychology behind it has shifted and has adapted over the years well it makes the **Facebook personal profile** more powerful today than it ever has been before first of all to understand why this is important we have to take a look at the algorithms in general whether we're talking about the Instagram algorithm or the Facebook.
 
 Algorithm well it's important to know that organic reach meaning any kind of content that you create that you're not putting ads behind well that kind of reach has been dropped off a cliff like it's gone like really really gone so if you're expecting to put out content on your Facebook page or on your Instagram account and any of your fans to see it the odds of that are pretty low only a small percentage are actually gonna get delivered your content but there is an exception which is more the Facebook personal profile which still allows you to engage with your friends and with your family and with the network that you build up through that profile and this is where the power really stands.
 
 Today this is also one of the biggest areas that I get pushback from people really like to keep their business and their personal life separate but if you're an entrepreneur if you're a business owner even if you're a marketer those lines they've got to blur a little bit and you've got to take advantage of the tools that you have available at your disposal one of those tools is your Facebook personal profile and the reason that it works so well is because the reach and the ability to get in front of more people well it still exists plus some of your strongest advocates the people that know you like you and trust you the most well they're gonna be your friends and family so it only makes.
 
-Sense that they really understand what you do what your business is all about and the kind of people that you can help one of the most important questions in all of marketing is does everyone who could buy from me know that I exist if the answer is no then you've got some marketing to do all right the next strategy that I want to talk to you about is an old one but a good one certainly not sexy and something that many people have forgotten or kind of written off in favor of newer shinier objects and that strategy is SEO or search engine optimization the nuts and the bolts of search engine optimization are essentially pretty much exactly what it sounds it's optimizing your website for the search engines so when somebody's.
+Sense that they really understand what you do what your business is all about and the kind of people that you can help one of the most important questions in all of marketing is does everyone who could buy from me know that I exist if the answer is no then you've got some marketing to do
 
-Typing in a search term or a keyword or something to do with your business or your market your website or your web pages are the ones that appear first in the search rankings this is hugely powerful but as great as SEO or search engine optimization is there are a few caveats in order to determine if it's the right strategy for you starting with determining if your business falls into the search category or the discovery category for really easy examples here let's use the business of a plumber so for example if you've got a plumbing service and you do emergency toilet repairs but also bathroom remodels well what you're gonna want to do is you're going to want to make sure to use search engine.
+---
+
+## 4. Strategy Three: Capture Search Intent
+
+> [!NOTE]
+> The key diagnostic in this section is intent. Search fits problems people actively seek to solve, while discovery channels can introduce wants before a person searches.
+
+all right the next strategy that I want to talk to you about is an old one but a good one certainly not sexy and something that many people have forgotten or kind of written off in favor of newer shinier objects and that strategy is **SEO or search engine optimization** the nuts and the bolts of search engine optimization are essentially pretty much exactly what it sounds it's optimizing your website for the search engines so when somebody's.
+
+Typing in a search term or a keyword or something to do with your business or your market your website or your web pages are the ones that appear first in the search rankings this is hugely powerful but as great as SEO or search engine optimization is there are a few caveats in order to determine if it's the right strategy for you starting with determining if your business falls into the **search category or the discovery category** for really easy examples here let's use the business of a plumber so for example if you've got a plumbing service and you do emergency toilet repairs but also bathroom remodels well what you're gonna want to do is you're going to want to make sure to use search engine.
 
 Optimization specifically for the emergency repairs but you could also use it for the remodels because someone is likely to have search intent or buyer intent for both of these terms for example if you want to get toilet fixed that's leaking all over your house you're probably gonna go to google and type in emergency plumber or emergency toilet repair or something like that where it's going to be incredibly beneficial to have your website rank for those terms same thing is going to apply for a bathroom remodel or something like that on the other hand if we look at a platform like Facebook or Instagram which isn't a search platform but more of a discovery platform.
 
@@ -84,7 +135,15 @@ Incredibly competitive and incredibly profitable niches which means that if you 
 
 Anything that you're gonna do to optimize your website right there on the page itself including the way that it's coded the way it's designed the URL structure the keywords that are on the page that titles the descriptions all of that stuff and then all of the off page signals which are authority boosting signals like links or social signals or citations or anything that is going to provide traffic or some kind of signal to your website showing the search engines that your website is relevant and valuable and people actually want to use it and go to it anyway to bring SEO home the thing that you really want to do here is really take a look and figure out if SEO is the right strategy for your business.
 
-My general real broad advice is that if you've got a small local business or a very niche kind of audience it's a great tool to take a look at but if you're serving a national or international audience or you have an incredibly competitive keywords well then probably want to pass on this and look at one of the other strategies that I'm sharing with you today so with all that said let's move on to the next digital marketing strategy and one that I am a massive fan of which is podcasting now the level of which podcasting is a digital marketing strategy is kind of debatable I mean technically it's digital it's definitely marketing so I'd argue that it's probably a decent.
+My general real broad advice is that if you've got a small local business or a very niche kind of audience it's a great tool to take a look at but if you're serving a national or international audience or you have an incredibly competitive keywords well then probably want to pass on this and look at one of the other strategies that I'm sharing with you today
+
+---
+
+## 5. Strategy Four: Build Authority Through Audio
+
+### Expertise, guests, and relationship development
+
+so with all that said let's move on to the next digital marketing strategy and one that I am a massive fan of which is **podcasting** now the level of which podcasting is a digital marketing strategy is kind of debatable I mean technically it's digital it's definitely marketing so I'd argue that it's probably a decent.
 
 Digital marketing strategy whatever you want to call it just know that it works very similar to the original strategy that we talked about in this video here like YouTube marketing.
 
@@ -96,7 +155,16 @@ On the other hand if having to talk and be casual and interview people well that
 
 You really need is some decent people to talk to and a good quality microphone both of which relatively attainable the beauty of the podcast as well is that not only are you able to deliver a ton of value but if you set it up correctly if you give your podcast a-- a really good name you get some decent cover art design you structure it properly well there's a pretty high perceived value because a lot of people really don't know how to go out there and start a podcast which immediately gives you some kind of boost in authority and in expertise the beauty of using a podcast as a digital marketing strategy is again it's multifold I mean you can use it to increase brand awareness you can use it to increase authority but you can also.
 
-Use it as a customer or client generating tool by going out there and essentially asking to interview your your clients and your ideal customers you can have them on your show they can share their knowledge get access to your audience and you can talk a little bit about your business and how you help people relationships are formed networks are built money is made it's a thing of beauty all right let's move along to my favorite digital marketing strategy possibly of all times which is Facebook Ads Facebook Ads and also Instagram ads which we're going to talk about in just a minute are still today one of the most relevant most valuable and most cost-effective forms of advertising that we've ever seen in the digital marketing.
+Use it as a customer or client generating tool by going out there and essentially asking to interview your your clients and your ideal customers you can have them on your show they can share their knowledge get access to your audience and you can talk a little bit about your business and how you help people relationships are formed networks are built money is made it's a thing of beauty
+
+---
+
+## 6. Strategy Five: Accelerate with Paid Social
+
+> [!IMPORTANT]
+> Paid distribution is treated here as a multiplier. Evaluate the offer, audience, funnel, and creative before increasing reach.
+
+all right let's move along to my favorite digital marketing strategy possibly of all times which is **Facebook Ads** Facebook Ads and also Instagram ads which we're going to talk about in just a minute are still today one of the most relevant most valuable and most cost-effective forms of advertising that we've ever seen in the digital marketing.
 
 World in the marketing world in general I mean nothing else compares in their ability to go out there and target your ideal target market create compelling messages put it directly in front of them for pennies on the dollar when compared to traditional advertising and track everything right down to the click and do it relatively easier due to the pretty decent to use interface Facebook is also a behemoth which means it's got a ton of people that you can market to regardless of what demographic you're trying to reach what market you're in.
 
@@ -104,15 +172,25 @@ What business what industry you can probably reach a pretty substantial chunk of
 
 Bad offer and they make it terrible by showing it to more people you see if you have a proven offer and a proven funnel and you're able to create a Facebook ad you're just going to make that more effective and it really.
 
-Becomes a really fast past the cash on the other hand if you've got a bad offer and a bad funnel that's just gonna lose money well then it becomes the fastest path to lose cash and that's where a lot of people yell and scream and argue at Facebook ads and how they just don't work when in reality the ad itself didn't work the offer didn't work and the funnel didn't work that's not really Facebook's fault again Facebook ads are an accelerator they're a multiplier they are gas on the fire but they were start the fire for you so what does it take to be successful with Facebook Ads today well it all starts with having a really good offer which is something that you can test offline you can test.
+Becomes a really fast past the cash on the other hand if you've got a bad offer and a bad funnel that's just gonna lose money well then it becomes the fastest path to lose cash and that's where a lot of people yell and scream and argue at Facebook ads and how they just don't work when in reality the ad itself didn't work the offer didn't work and the funnel didn't work that's not really Facebook's fault again **Facebook ads are an accelerator** they're a multiplier they are gas on the fire but they were start the fire for you so what does it take to be successful with Facebook Ads today well it all starts with having a really good offer which is something that you can test offline you can test.
 
 It online through organic social media really you can test it just by talking to people and figuring out is this something that people actually want it sounds painfully obvious you'd be amazed at how many times I added a business and I see the offer is just not that good doesn't mean the business isn't good doesn't mean the product or service isn't good it just means the marketing behind it isn't enough to make people want to take action the next thing you need is a targetable audience yes Facebook gives you access to a ton of people but you do need to know what kind of content they consume what kind of books they read or movies they watch or people they follow or content they.
 
-Consume or software they use whatever that is so you can target them accordingly some groups are just easier to target than others next up you need a good sales funnel or a good marketing funnel which is essentially the customer journey or the progression that you're gonna work someone through when they click on your ad to possibly give you their name and their email - when you. Finally get to make the offer or make the sale if you're selling anything for over $100 it's really hard to go from an ad direct to a sale after all they don't really know you like you or trust you yet so you need to have a good sales funnel or a good marketing funnel in place in order to make that conversion.
+Consume or software they use whatever that is so you can target them accordingly some groups are just easier to target than others next up you need a **good sales funnel** or a good marketing funnel which is essentially the customer journey or the progression that you're gonna work someone through when they click on your ad to possibly give you their name and their email - when you. Finally get to make the offer or make the sale if you're selling anything for over $100 it's really hard to go from an ad direct to a sale after all they don't really know you like you or trust you yet so you need to have a good sales funnel or a good marketing funnel in place in order to make that conversion.
 
 On the other hand if you're selling anything for under $100 the economics are pretty hard to make work with the ad costs that we're seeing today so again you're probably gonna need some kind of funnel with upsells or down sells cross-sells or something to help increase customer lifetime value to make the ad worth it and then lastly you need really good copy and creative these are the words that you're going to use the headline the image or the video essentially everything you're gonna use to tell your story and to influence and to persuade someone to take action the mechanics of Facebook and running a Facebook ad who've never been easier than they are today which means that one of the key variables to success is really the ad copy itself what you're.
 
-Saying how you're saying it and how resistible you can make your offer to your ideal target market alright now that you've got the strategies the next thing you're gonna want to do is check out this video I have linked up right here on the top 5 digital marketing skills to master so make sure to check that out now and I'll see you in the. Next episode is to focus on conversation generation now as a die-hard proponent of direct response marketing which is really.
+Saying how you're saying it and how resistible you can make your offer to your ideal target market
+
+---
+
+## 7. Closing
+
+### Continue with the core skill set
+
+alright now that you've got the strategies the next thing you're gonna want to do is check out this video I have linked up right here on the top 5 digital marketing skills to master so make sure to check that out now and I'll see you in the. Next episode is to focus on conversation generation now as a die-hard proponent of direct response marketing which is really.
+
+---
 
 ## Transcript processing note
 

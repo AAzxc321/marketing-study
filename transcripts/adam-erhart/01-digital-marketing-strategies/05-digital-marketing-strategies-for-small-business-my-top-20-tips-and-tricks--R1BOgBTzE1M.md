@@ -32,17 +32,51 @@ manually_reviewed: false
 - **Caption source:** Manual English captions
 - **Transcript status:** Complete
 
-## Full transcript
+# 20 Digital Marketing Strategies for Small Business
 
-- If you've got a small business to run, then you know the importance of choosing your digital marketing strategy wisely. After all, the right digital marketing strategy can either make or break your marketing efforts. So in this episode, we're covering 20, yes 20 of my top digital marketing strategies for you to pick and choose from and combine into the perfect digital marketing strategy for your business, all right, let's get to it. Hey there, my name is Adam Erhart, and welcome to the Modern Marketing Show, where we help you make marketing that matters.
+<p align="center"><em>A practical tour through offers, content, organic reach, paid distribution, relationship-building, measurement, proof, and customer clarity</em></p>
+
+> [!TIP]
+> **Study approach:** Begin with the framing and overlap between strategies, then work through the first 18 options as a menu. Finish with the final two priorities, which the transcript identifies as the most important considerations for small businesses.
+
+## Study Route
+
+1. [How to Use the 20 Strategies](#1-how-to-use-the-20-strategies)
+2. [Offer and Search Foundations](#2-offer-and-search-foundations)
+3. [Content and Audience-Building Channels](#3-content-and-audience-building-channels)
+4. [Paid Distribution and Follow-Up](#4-paid-distribution-and-follow-up)
+5. [Relationship and Economics](#5-relationship-and-economics)
+6. [The Final Two Priorities](#6-the-final-two-priorities)
+7. [Closing](#7-closing)
+
+---
+
+# Full Transcript
+
+## 1. How to Use the 20 Strategies
+
+### The goal: choose and combine what fits
+
+If you've got a small business to run, then you know the importance of choosing your digital marketing strategy wisely. After all, the right digital marketing strategy can either make or break your marketing efforts. So in this episode, we're covering 20, yes 20 of my top digital marketing strategies for you to pick and choose from and combine into the perfect digital marketing strategy for your business, all right, let's get to it. Hey there, my name is Adam Erhart, and welcome to the Modern Marketing Show, where we help you make marketing that matters.
 
 So if you're interested in learning about the latest and greatest marketing strategies, tools, tips, tricks, and tactics, well, you may want to consider subscribing. All right, let's talk digital marketing strategies. Specifically, in this video, I'm gonna give you 20 of my absolute best digital marketing strategies that you can use regardless of what market or business or industry you're in. Now rather than dive into the nitty gritty details and specifics in each and every one, I want to give you kind of a high level overview and my key takeaways on what these strategies really mean and why they've been effective in all of the small businesses I've worked with and coached with in order to help you generate more leads, customers, and sales.
 
 One more quick note, you're gonna notice a little bit of overlap between some of these things, and this is intentional. After all, sometimes when we're taking a look at digital marketing strategies, it's important to look at both the high level kind of macro overview as well as the low level micro specifics in order to find which combination or two, three, or four items are really gonna drive the point home for your business.
 
+> [!NOTE]
+> Several tips deliberately overlap. Read those connections as clues for combining tactics into a coherent strategy rather than as repetition.
+
 The goal here is simply to flood your brain with possibilities, and not just possibilities, but possibilities that have actually been proven in the real world in helping businesses just like yours to grow and generate more leads and do all the things that a business is supposed to do because at the end of the day, it's less about the tactic and more about the overall strategy behind that tactic 'cause remember, a well executed but only average strategy is gonna massively outperform a terribly executed phenomenal strategy. At the end of the day, it's what gets done and what gets done well that really moves the needle.
 
-Also, make sure to stick around right til the end of the video because while I've listed the first 18 points in no particular order, it's the final two points that I believe are the most important for small businesses to consider today. All right, all that said, let's dive into tip number one. All right, tip number one is all about coming up with an irresistible offer. Now what an irresistible offer is is pretty much exactly like it sounds. It's an offer that's too good to refuse.
+Also, make sure to stick around right til the end of the video because while I've listed the first 18 points in no particular order, it's the final two points that I believe are the most important for small businesses to consider today.
+
+---
+
+## 2. Offer and Search Foundations
+
+### Tip 1: Create an Irresistible Offer
+
+All right, all that said, let's dive into tip number one. All right, tip number one is all about coming up with an irresistible offer. Now what an irresistible offer is is pretty much exactly like it sounds. It's an offer that's too good to refuse.
 
 Now sometimes these are referred to as godfather offers or IOs or other terminology but they basically all the same thing, and what it is is it's some kind of offer that you can put in front of your ideal target market that directly speaks to them and compels them to take action. Now here's the thing. When we're designing an irresistible offer, we don't necessarily have to compete on price. We don't need to give anything away for free here. All we have to do is understand that it's important to reflect that we understand where the customer's coming from, meaning we know their pains, their problems, their frustrations, and how our business is uniquely positioned to solve that for them.
 
@@ -50,41 +84,73 @@ One of the most important points to consider when you're constructing an irresis
 
 I like to describe these pains and problems as miseries and basically what it is is it's some kind of pain or problem or fear or frustration that they're trying to get over, but this can also be referred to as a bleeding neck which really stresses the importance of getting this thing solved fast, meaning you can either display this irresistible offer in an ad or as a call to action on a blog post or right on the homepage of your business. The only thing to really remember here is the importance of actually having it so that you can compel someone to take action as soon as possible.
 
+> [!IMPORTANT]
+> The offer is the strategic starting point: it connects a current customer problem to a clear reason to act.
+
+### Tip 2: Build Lead Magnets
+
 Now it's here in tip two that we're going to experience the very first part of overlap that we're gonna see as we move through these 20 items, meaning your lead magnet can actually include aspects or elements or maybe even the entire part of your irresistible offer. Now a really high level overview just in case you haven't heard of a lead magnet before, all it is is some kind of piece of valuable content or information or could even be something tangible or physical like a book or a trinket or a widget or whatever it is, but you're going to use this in exchange for your customer's contact details, meaning maybe their name, maybe their email address, maybe their phone number, maybe even their address.
 
 Now the reason it's so important and so valuable for your business to have a lead magnet is twofold. Number one is having an appropriate lead magnet positions you as the authority and actually shows that you know what you're doing by solving one of their problems through your content. The second reason is you're gonna use this lead magnet in order to attract leads, not surprising, right? Now the way lead magnets traditionally work is you're gonna wanna put this offer for the lead magnet in front of your ideal target market.
 
 You can do this through an ad or maybe even a link on your website, and you're gonna direct them to where they can download their free PDF or their free guide or get their free book plus shipping, whatever it is. Once they get to that actual landing page, they'll input their name and email address and in turn, they're gonna get the guide, and you're gonna get their contact details which you can use to followup with them later. My final point on lead magnets is this.
 
-You don't need to limit yourself to just one lead magnet. After all, the odds of your customers having just one single problem might be pretty slim, and you may want to approach their pains or frustrations from a number of different angles which is what your lead magnets allow you to do. All right, tip number three and one of the top digital marketing strategies that I've seen work for small business is none other than SEO. Now, SEO, or search engine optimization is by far one of the nerdiest, technical, most geekiest things you can possibly talk about in digital marketing, but it's also incredibly important.
+You don't need to limit yourself to just one lead magnet. After all, the odds of your customers having just one single problem might be pretty slim, and you may want to approach their pains or frustrations from a number of different angles which is what your lead magnets allow you to do.
+
+### Tip 3: Invest in SEO
+
+All right, tip number three and one of the top digital marketing strategies that I've seen work for small business is none other than SEO. Now, SEO, or search engine optimization is by far one of the nerdiest, technical, most geekiest things you can possibly talk about in digital marketing, but it's also incredibly important.
 
 In fact, SEO is largely responsible for the growth of my first marketing agency back in the day, that and content marketing, but again, there is some overlap because content marketing and SEO kind of work nicely together. Anyway, the point is this, search engine optimization, SEO, is incredibly valuable. Now, we obviously don't have the time to get into all the specifics and details here, but the point is you may want to start allocating more resources to SEO especially if people tend to be searching for one of the problems that your business solves.
 
 Now when it comes to SEO, there's a number of different factors that influence it, including onpage rankings and offpage signals. Now, when we're talking about onpage, these are things like the keywords you use in your URL, your title, your headings, onpage content, all sorts of things like that, and when we're talking about offpage ranking signals, it really has to do with the number and the kind of links that are linking back to your content which is sending signals to the search engines that this is valuable content.
 
-Anyway the goal here isn't to dive into the technicalities of SEO but rather just to educate you on it being a valuable strategy and if you want to pursue it, there's a ton of great content available, I'll make sure to link to some in the description below. All right the next point may sound similar, but it's incredibly important to differentiate and that's Google 3-pack SEO. Now this point is only really valuable if you've got a local business or an actual storefront or actual physical location because what you're going to be doing here is ranking in the map, and this is incredibly important especially on mobile now where most searches are conducted.
+Anyway the goal here isn't to dive into the technicalities of SEO but rather just to educate you on it being a valuable strategy and if you want to pursue it, there's a ton of great content available, I'll make sure to link to some in the description below.
+
+### Tip 4: Optimize for the Google 3-Pack
+
+All right the next point may sound similar, but it's incredibly important to differentiate and that's Google 3-pack SEO. Now this point is only really valuable if you've got a local business or an actual storefront or actual physical location because what you're going to be doing here is ranking in the map, and this is incredibly important especially on mobile now where most searches are conducted.
 
 Now the way to find out if you're ranking in the 3-pack is pretty simple. First of all open an incognito or private browser just so your history doesn't influence the results, then type in whatever industry that you're searching for and your city name and see what appears in the map results. If you're not in the top three, you're missing out which means you really need to spend some time, some energy and some money optimizing that Google 3-pack listing because they get a ton of traffic, especially from mobile where most searches occur.
+
+---
+
+## 3. Content and Audience-Building Channels
+
+### Tip 5: Consider Audio Marketing
 
 Now this next tip is a little more out there and a little less common than say SEO or Google 3-pack SEO and it has to do with audio marketing. Now like I said at the beginning, these tips are listed in no particular order, again except for those last two, so I don't want to overemphasize or underemphasize the importance or relevance of audio marketing to your business. That said, I know it can have a profound effect if this ends up being the right channel for your target market, and therein lies the key.
 
 You see, to decide if audio marketing is something you want to pursue, you first need to really clearly identify your ideal target market, but we're gonna talk about that a little bit later. Now when we're talking specifically about digital marketing strategies, obviously things like podcasts and Spotify ads and things like that are gonna come to the forefront of your mind. That said, I also want you to consider offline audio channels like maybe even good old fashioned radio. Now, radio in my experience certainly doesn't provide the same return on investment that some of these digital channels do, but as a supplement or accessory or even worth considering 'cause you never know, it might still provide enough of a bump to make everything worth it.
 
+### Tip 6: Use Email Marketing
+
 All right, our next point is one of my all time favorites and it has to do with email marketing. Now fortunately, we already covered lead magnets and the importance of acquiring customer contact information like their name and their email address. Well with email marketing, it gives you that opportunity to followup and provide more value and make offers again and again and again. Now there's a lot of people out there complaining about lower open rates and how email marketing is losing its effectiveness and while this is true to some degree, just think about yourself and how you personally interact with content and how you consume information.
 
 Odds ar pretty good you check your email once, twice, three, maybe even 10 times a day. Well, the same goes for your customers. They're actively involved with checking their email which means it's a fantastic medium to reach them and to spread your message. Of course, like all the strategies we're talking about, here are the devils in the details which means you can't just spammily promote all kind of offers and all kinds of garbage to your audience or they're just gonna unsubscribe and delete your emails as quickly as they receive them.
 
-Rather, you want to be strategic and seek to provide as much value as possible, meaning you're gonna educate, you're going to inform, you're gonna provide entertaining content, and overall, you're gonna seek to be authentic and human and really provide as much value as you can. But when all that's done, of course you still have to make offers so don't be afraid to as long as they're relevant to your market. Our next point is content marketing, and as I've already discussed, between SEO and content marketing, this is really how I built up my first marketing agency.
+Rather, you want to be strategic and seek to provide as much value as possible, meaning you're gonna educate, you're going to inform, you're gonna provide entertaining content, and overall, you're gonna seek to be authentic and human and really provide as much value as you can. But when all that's done, of course you still have to make offers so don't be afraid to as long as they're relevant to your market.
+
+### Tip 7: Create Content
+
+Our next point is content marketing, and as I've already discussed, between SEO and content marketing, this is really how I built up my first marketing agency.
 
 It's a fantastic tool because content marketing allows you, again, to educate, to inform, to provide value, and to show that you're the authority in your field by teaching people what you know. Now, again, content marketing is kind of a high level macro overview which entails all sorts of things below it like podcasts and videos and blogs and interviews and lead magnets and resource guides and all sorts of stuff like that so it really is again that high level overview. The point is if you're not creating content for your target market, you really should be in one way, shape, or form.
 
 The key with content marketing is to choose the right format and the right style for you and your audience, meaning if you hate the idea of being on video, video's probably not gonna be for you. If you hate the sound of your voice, maybe audio content you're gonna wanna stay away from, and if you hate the thought of writing, well then obviously a blog isn't gonna be the best for your style. All that said, if I had to pick one which is the absolute best form of content marketing that we're seeing right now, it really has to be video, and there's a number of reasons for this, we're gonna cover that in just a minute on video marketing.
 
+### Tip 8: Build with Video Marketing
+
 All right, and our next tip as promised, video marketing. Now video marketing is a phenomenal tool for small businesses in order to generate more leads, customers, and sales and prove your authority in the marketplace. Next to having an in person conversation or meeting face to face, video really is the next best thing in order to establish trust and show your personality and really humanize your brand and your business. Also, the fact the video has a relatively high barrier to entry, especially considering just typing up a blog post, this is actually a good thing because if you're serious enough to be watching this now and really intent on improving your small business, it means you're serious to overcome that barrier to entry and do the things your competitors are not willing to do.
 
 Specifically, overcome some of the discomfort that initially arrives with video, namely getting all the equipment set up, figuring out what you're gonna say and then going through the process of recording, editing and uploading your videos. Now as I touched on in the last point on content marketing, the reason I think video marketing is one of the most powerful forms of content is because you're able to take the video content and then syndicate it across a number of different channels, meaning you can strip away the audio and you now have audio marketing.
 
+> [!TIP]
+> Follow the repurposing chain in this section: one video can become audio, a transcript-based post, short clips, quotes, and social assets.
+
 You can have it transcribed, and you now have a blog post, and you can take little bits of snips or clips or quotes or anything like that, and you've got all sorts of different quote cards for all sorts of different social media channels. My takeaway point on video marketing is this. It's only going to grow in importance as we move on through the new year and into the next year. So if you haven't yet, now's the time to start investing in creating more video content for your business.
+
+### Tip 9: Improve Your Copywriting
 
 Our next point is copywriting, and when we're talking about copywriting, we're not talking about copyright or the legal aspect of protecting your work, but rather about creating influential and persuasive sales copy. The reason copywriting is so important is because if you've got a small business, which I hope you do, otherwise, why would you be watching this video now, well then it's important to communicate and to persuade and to influence the perceptions of those who are communicating and dealing with your business and the way we do this is through copywriting.
 
@@ -92,23 +158,42 @@ But here's the thing with copywriting. Rather than get bogged down in all the de
 
 So there's a number of different formulas out there to help you get started with copywriting, but the biggest takeaway and the strongest and most important point I want to make is really try to be empathetic to your customers. Understand where they're coming from, understand their problems and their pains and their frustrations, their dreams, their wants, their goals, and their desires. Put yourself in their shoes and really seek to understand, and your copy will become significantly more effective allowing you to make a lot more sales.
 
+### Tip 10: Use YouTube Organically
+
 All right, our next point is on YouTube marketing organic. Now, no surprise that I obviously believe YouTube is a phenomenal tool in order to communicate your message, provide some value to your marketplace, and help to grow your business. After all, that's why you and I are both here now. Now there's two sides when it comes to marketing with YouTube, the organic side and the advertising side, which, spoiler alert, we're gonna cover in just the next point, but first, let's touch on the organic side.
 
 Now to succeed in the YouTube organic side, it's all about understanding that YouTube acts like a search engine, meaning one of the best ways to initially get liftoff for your YouTube channel is to create content that your ideal customers are actively searching for. Now, whether your video gets watched or not comes down to a number of different factors like the thumbnail you choose, the title, the competitiveness of the keyword and just how good the video is overall, but there's no better way to get started than really just to get started.
 
 In fact, even if you have no intention of ranking for different search terms or becoming a YouTube celebrity, it's still worth uploading your content to YouTube 'cause this can be a valuable resource for you to direct current or potential customers too in order to answer questions, solve problems, even provide some troubleshooting information for your product or service that they may have. Overall, content marketing is important, video marketing is a great part of content marketing, and if you're gonna be creating videos, then what better place to host them than on YouTube.
 
+---
+
+## 4. Paid Distribution and Follow-Up
+
+> [!NOTE]
+> This sequence moves from paid reach to repeated contact: YouTube ads, personal and paid Facebook activity, Instagram ads, retargeting, and the Google display network.
+
+### Tip 11: Run YouTube Ads
+
 Now as I just touched on, obviously the next part of YouTube marketing is the advertising platform, and YouTube ads are quickly becoming one of the most profitable and powerful forms of advertising available online today. I said that a little quieter 'cause it's still a bit of a secret, you see, just like we saw Google ads explode in costs over the years, well we're seeing the same thing happen with Facebook ads, but this hasn't happened yet with YouTube ads, meaning we're still able to get in there and get views for pennies on the dollar.
 
 The thing is the YouTube advertising platform is a little more complicated than the Facebook ad platform, again, which creates that barrier to entry, but YouTube's making it a lot easier to get your ads in front of relevant and ideal target markets and of course, there's a number of different ways to do this including pre-roll ads, those kind of annoying skippable things that they put in front of the videos that everybody kind of (clicking). Well, those actually work. Same thing goes for discovery ads, those ads that you see at the top of the search which show a little yellow ad thing, well those work as well and can appear for whenever your ideal target market is putting in a search term that you want your video to appear for.
 
-Key with really maximizing your YouTube ad is to make sure to follow a really good script and template, again, I'll make sure to link to one in the description box below as well as to make sure that your targeting is on point, meaning you're only showing your ads and your videos to those who are most likely to take action and do business with your company. Our next tip is something that I get a lot of kickback from and that's using your Facebook personal page in order to market and grow your business.
+Key with really maximizing your YouTube ad is to make sure to follow a really good script and template, again, I'll make sure to link to one in the description box below as well as to make sure that your targeting is on point, meaning you're only showing your ads and your videos to those who are most likely to take action and do business with your company.
+
+### Tip 12: Use Your Facebook Personal Page
+
+Our next tip is something that I get a lot of kickback from and that's using your Facebook personal page in order to market and grow your business.
 
 Now the objections I get are always the same. They range from I'm not even on Facebook or I don't use Facebook to I don't want to be spammy and promotional on my personal page and pretty much everything in between, but the reality is is that if you're good at what you do, your business offer's a valuable service and really helps people, well then you're kind of doing a disservice to people by not educating and informing them of what you have to offer.
 
 Also, in today's world, where people don't like to do business with businesses but like to do business with people, it really helps and goes a long way to humanize your brand and to basically become a lot more authentic in your business doings. So, how do you do this? How do you use your Facebook personal page to promote your business? Well, it's actually pretty simple, you really just need to be yourself and talk about things that are of interest to you. All the more power if you're able to do this in a way that ties in to your business in some way, shape, or form.
 
-Maybe by telling customer stories or talking about things that are of interest to your market or sharing successes or highlights or even new developments that are going on in your world. Don't be afraid to start slow here and maybe just put a few kind of tester posts our there just to get started, but I think you'll be really pleasantly surprised with how curious people are about this part of your life. So don't be afraid to share it. All right, no video on digital marketing strategies for small business would be complete without talking about Facebook advertising.
+Maybe by telling customer stories or talking about things that are of interest to your market or sharing successes or highlights or even new developments that are going on in your world. Don't be afraid to start slow here and maybe just put a few kind of tester posts our there just to get started, but I think you'll be really pleasantly surprised with how curious people are about this part of your life. So don't be afraid to share it.
+
+### Tip 13: Use Facebook Advertising
+
+All right, no video on digital marketing strategies for small business would be complete without talking about Facebook advertising.
 
 Now, I know we talked about how YouTube ads are quickly becoming one of the most powerful forms of ads available today but that doesn't mean Facebook is out of the running yet. In fact, it's still a phenomenally powerful tool in order to get in front of your ideal target market. Now I've got a number of videos out on the top of Facebook advertising, so I'll make sure to link to a playlist in the description below, but the point is this, if you've got a small business, you need to be using Facebook ads.
 
@@ -116,33 +201,67 @@ You can use them to create brand awareness, you can use them to promote your vid
 
 The reason this is so powerful is because Facebook is trying to promote videos as much as possible, but you're also able to retarget people who watch a certain percentage of your video, meaning if someone watches, say, 25 or 50% of your video, they've shown some interest, they've shown some intent and they've taken some action by staying involved up to that point. Well you can now create an audience of these viewers to retarget later with other relevant offers, other videos, and essentially continue to build trust for pennies on the dollar.
 
-Takeaway point, Facebook ads, gotta use 'em, which leads nicely into our next point on Instagram ads. Now, the thing with Instagram ads really comes down to the fact is your target market on Instagram. If they are, you obviously want to be using Instagram ads as well. The beauty is is you've got a couple different formats to choose from including feed ads and stories ads. Now if you're not familiar with Instagram, those are essentially just the two main different ways that people interact with the platform.
+Takeaway point, Facebook ads, gotta use 'em.
+
+### Tip 14: Use Instagram Ads
+
+Which leads nicely into our next point on Instagram ads. Now, the thing with Instagram ads really comes down to the fact is your target market on Instagram. If they are, you obviously want to be using Instagram ads as well. The beauty is is you've got a couple different formats to choose from including feed ads and stories ads. Now if you're not familiar with Instagram, those are essentially just the two main different ways that people interact with the platform.
 
 But the key is is choosing the right one for you and your business and then designing them accordingly. The beauty of Instagram ads along with Facebook ads and along with pretty much any other kind of advertising is it allows you to instantly put your message in front of your ideal target market which means you don't need to spend weeks or months or years building up an organic audience. You can immediately go out there and put your ad right in front of who you need it for to test whether it works or not, whether you need to refine your offer or find your targeting or find your message in general.
 
-Takeaway point on Instagram ads is if your audience is on Instagram, you need to be using Instagram ads. They're a phenomenally powerful tool. And this leads us nicely into our next tip, which is retargeting. Now, retargeting essentially is your ability to go out there and to show ads to people who have engaged with your content in some, way, shape, or form before.
+Takeaway point on Instagram ads is if your audience is on Instagram, you need to be using Instagram ads. They're a phenomenally powerful tool.
+
+### Tip 15: Retarget Engaged Audiences
+
+And this leads us nicely into our next tip, which is retargeting. Now, retargeting essentially is your ability to go out there and to show ads to people who have engaged with your content in some, way, shape, or form before.
 
 Now retargeting is amazingly powerful for just a number of different reasons, and I get really excited about it because the beauty of retargeting is that you can go out there and show your ad to someone and if they take any kind of action whatsoever, you're able to go out there and followup again and again and again which allows you to increase the frequency with which you're showing your message to someone and as human beings, we've been kind of conditioned to associate frequency with trust, meaning the more touch points you're able to go out there and get in front of your ideal target market, the more they're going to trust you and your business. Now here's the beauty.
 
 Facebook, Instagram, YouTube, and the Google display network all allow you to use retargeting. Here's an advanced tip. All you really need to do is get someone to your main website, to your main landing page, and as long as you have the pixels installed, you're able to then cross retarget across a number of different platforms, meaning if you can get someone from Facebook to go to your website, well then you can retarget them on Instagram or on the Google display network. Same thing goes with YouTube.
 
-If you can get them to go from YouTube to your website, well then you can retarget them on Facebook or Instagram or back on YouTube again if you want, and really they all kind of play together so you create this omnipresent, multichannel marketing approach. Sounds super nerdy, but it's super cool. And this leads us nicely into our next point on the Google display network. Now, pretty much everyone's familiar with Google as well as Google ads, those things that appear at the top of the search engines and show the little ad button beside them, but what most people don't know is that Google also has real estate on all sorts of different websites allowing you to put banner ads anywhere you want pretty much.
+If you can get them to go from YouTube to your website, well then you can retarget them on Facebook or Instagram or back on YouTube again if you want, and really they all kind of play together so you create this omnipresent, multichannel marketing approach. Sounds super nerdy, but it's super cool.
+
+### Tip 16: Use the Google Display Network for Retargeting
+
+And this leads us nicely into our next point on the Google display network. Now, pretty much everyone's familiar with Google as well as Google ads, those things that appear at the top of the search engines and show the little ad button beside them, but what most people don't know is that Google also has real estate on all sorts of different websites allowing you to put banner ads anywhere you want pretty much.
 
 Now, banner ads used alone, not the best strategy, certainly not the most effective, but when used in conjunction with the retargeting strategies that we just talked about, they're again a phenomenal way to increase the frequency with which someone sees your message. The beauty of the Google display network is that it's really cost effective, meaning you can go out there and show your banner ads to people who have engaged with your content and only people who have engaged with your content for really, really cheap.
 
-Now here's my big point with the Google display network. I don't recommend using this for cold traffic, meaning I don't want you to be going out there and showing this people who have never engaged or interacted with your business before. It's gonna become really expensive and not that effective, but if you're using it as a retargeting method in order to continue the relationship, to show relevant offers, and stay top of mind with your target market, then it's a phenomenal tool. All right, our next tip on digital marketing strategies for small business is no digital marketing strategy at all which is exactly why it's a lethal weapon in today's digital age.
+Now here's my big point with the Google display network. I don't recommend using this for cold traffic, meaning I don't want you to be going out there and showing this people who have never engaged or interacted with your business before. It's gonna become really expensive and not that effective, but if you're using it as a retargeting method in order to continue the relationship, to show relevant offers, and stay top of mind with your target market, then it's a phenomenal tool.
+
+---
+
+## 5. Relationship and Economics
+
+### Tip 17: Add Direct Mail to the Relationship
+
+All right, our next tip on digital marketing strategies for small business is no digital marketing strategy at all which is exactly why it's a lethal weapon in today's digital age.
 
 And that tool is direct mail. Now when it comes to direct mail, I want you to think about it in the same lines that we just talked about with the Google display network, meaning I don't want you to use it to generate cold traffic but rather to nurture the relationship with existing customers. You see, in today's day and age, there's something really valuable about getting a physical, tangible piece of something in the mail. This is true across all kinds of different generations including millennials who actually value and open and read hard copy direct mail.
 
 So if you've got a customer list or a lead list or even a prospect list, definitely want to be taking some time to put together some kind of direct mail material, and my advice here is to keep it as personal and as relatable and authentic as possible. This means no glossy brochures required, no really polished materials but really just a simple typed letter letting them know about what's going on and why it's important to them and most importantly why they should care.
 
-Fantastic tool, really good way to build trust and nurture the relationship. All right our next point is on the lifetime customer value. Now, what is the lifetime customer value, and why is this important to your business? Well for starters, the lifetime customer value is really pretty much exactly what it sounds like. It's the value of a customer over their lifetime to your business.
+Fantastic tool, really good way to build trust and nurture the relationship.
+
+### Tip 18: Know Lifetime Customer Value
+
+All right our next point is on the lifetime customer value. Now, what is the lifetime customer value, and why is this important to your business? Well for starters, the lifetime customer value is really pretty much exactly what it sounds like. It's the value of a customer over their lifetime to your business.
 
 Now why is this important? Well, when you understand what the value of a customer actually is to your business, it allows you to make really strategic and really budget conscious decisions about what marketing decisions are good and which ones are bad. Take for example you know that the average customer value of a customer to your business over their lifetime is a thousand dollars. Well, you can then decide how much of that you want to attribute and allocate to marketing in order to acquire new customer.
 
 For example, let's say that you can go out and buy all the customers you want for 500 dollars. Well, you may want to do this because you're gonna get a 500 dollar profit on each one of these decisions. Another example is let's say that you're investing in a certain marketing strategy, and it's costing you 1200 dollars to acquire a new customer. Obviously, you're gonna wanna cut this thing off pretty short or make some modifications soon because what you're doing is you're acquiring customers at a 200 dollar loss.
 
-Again, all sorts of different formulas and strategies and things we can look at later on this, but the key point is you really need to understand what the lifetime customer value is of a customer to your business so you can make educated and informed marketing decisions on which ones are gonna provide a return on investment and which ones are gonna lose. All right, so you've made it to our final two tips. Congratulations, I hope you've got a ton of good ideas that you can use and pick and choose and draw from in order to form the perfect strategy for your business.
+Again, all sorts of different formulas and strategies and things we can look at later on this, but the key point is you really need to understand what the lifetime customer value is of a customer to your business so you can make educated and informed marketing decisions on which ones are gonna provide a return on investment and which ones are gonna lose.
+
+---
+
+## 6. The Final Two Priorities
+
+<p align="center"><strong>Proof from customers, then clarity about the customer</strong></p>
+
+### Tip 19: Collect Testimonials and Case Studies
+
+All right, so you've made it to our final two tips. Congratulations, I hope you've got a ton of good ideas that you can use and pick and choose and draw from in order to form the perfect strategy for your business.
 
 All that said, these next two tips are pretty much gonna be powerful regardless of which ones you've chosen before because they've been proven time and time again to deliver the most bang for your marketing buck. So the next point that we have to cover here is the importance of testimonials and case studies. Now, testimonials and case studies have been around since basically the beginning of business when someone said hey, how's that business? And they said, ah, it's pretty good. Well, that right there is a testimonial.
 
@@ -150,7 +269,11 @@ What you wanna do is you want to capture these and then display them in order to
 
 You see by displaying and demonstrating them, it provides an enormous amount of social proof, and this is going to become increasingly more important as we move into the next year and years beyond where skepticism and cynicism and doubt about businesses and companies is at an all time high, and people are looking for true, prove, and authentic businesses in order to give their money to. Now testimonials and case studies is a bit of a weird thing to be talking about when we're talking about digital marketing strategies for small business, but it's incredibly important because acquiring testimonials and building out really thorough case studies is a fantastic way to prove that you actually know what you're doing.
 
-Social proof is one of the most important influential factors in getting someone to actually trust your business and do business with you, and testimonials and case studies are that social proof that you need in order to do this. It can then also be leveraged across all your different social platforms as well as on your website to clearly demonstrate that you're the one for the job. All right, and our final tip, and what I believe is the single most important element in a digital marketing strategy above all is having a really clear, really identified, and really thoroughly built out ideal customer avatar.
+Social proof is one of the most important influential factors in getting someone to actually trust your business and do business with you, and testimonials and case studies are that social proof that you need in order to do this. It can then also be leveraged across all your different social platforms as well as on your website to clearly demonstrate that you're the one for the job.
+
+### Tip 20: Define the Ideal Customer Avatar
+
+All right, and our final tip, and what I believe is the single most important element in a digital marketing strategy above all is having a really clear, really identified, and really thoroughly built out ideal customer avatar.
 
 So first a few details on what this avatar should entail and then why it's so important. Now when we're talking about an ideal customer avatar, we're talking about building either a fictional representation of your best customers or really picking kind of that one or two of your ideal, most perfect customers and really describing who they are and what makes them different. We're talking about demographic details, like age, gender, income, occupation, title, geographic details, like what city, state, province, country, neighborhood, wherever they live, and psychographic details like attitudes, interests, opinions, beliefs, affiliations, organizations, things of that nature.
 
@@ -158,9 +281,15 @@ The better you understand your ideal customer avatar, the better you're going to
 
 You're able to identify what messages are gonna resonate with them and which ones are gonna fall flat and you're able to determine what types of campaigns to launch and which ones to completely ignore. You see when you look at your digital marketing strategically and wholistically through the eyes of your ideal customer avatar, everything gets a lot easier, a lot more clear, and a lot more effective which is why it's my top tip, and my top digital marketing strategy for small businesses.
 
+---
+
+## 7. Closing
+
 All right, so thanks so much for watching. I hope you enjoyed the episode. If so, make sure to give it a thumbs up, subscribe to the channel, and say hello in the comments section below. For more great marketing strategies, tools, tips, tricks, and tactics, make sure to head over to adamerhart. Com which is packed full of resources, articles, blogs, and videos all designed to help take your marketing and your business to the next level and way beyond that.
 
 All right, so thanks so much for watching, and I'll catch ya next time on the Modern Marketing Show.
+
+---
 
 ## Transcript processing note
 

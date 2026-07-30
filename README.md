@@ -3,7 +3,7 @@
 <!-- BEGIN ADAM ERHART TRANSCRIPT LIBRARY -->
 # Adam Erhart Marketing Transcript Library
 
-This private personal-study library contains full, cleaned transcripts of Adam Erhart marketing videos when public YouTube captions were available. The caption wording and complete spoken sequence are preserved; the cleanup removes subtitle artifacts and adds conservative reading structure.
+This personal-study library contains full, cleaned transcripts of Adam Erhart marketing videos when public YouTube captions were available. The caption wording and complete spoken sequence are preserved; the cleanup removes subtitle artifacts and adds conservative reading structure.
 
 - **Creator:** Adam Erhart
 - **Playlist categories:** 8
